@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compendium version="5">
+<!-- Source: https://www.gmbinder.com/share/-LaHHvQs04RAMsTZ0gM1 -->
+<race>
+  <name>Vampire (Blueblood)</name>
+  <size>M</size>
+  <speed>30</speed>
+  <ability>Int 1, Cha 2</ability>
+  <trait>
+    <name>Blueblood</name>
+    <text>Your bloodline is stems from the cream of society. Decadent nobles, wealthy merchants, and even royalty hail from this strain of vampirism.</text>
+	<text>You gain proficiency with the Persuasion skill, if you already had proficiency in the Persuasion skill, then you gain expertise in Persuasion instead.</text>
+	<text>Charmed creatures are a willing target for Bite feature. As an action, you may use your Bite feature on a Charmed creature without making an attack roll.</text>
+  </trait>
+  <trait>
+	<name>Languages</name>
+	<text>You can speak, read, and write Common and Vampiric.</text>
+  </trait>
+  <trait>
+    <name>Undead</name>
+    <text>Raised from the dead as a being of undeath, you count as an undead creature for all spells and abilities that affect undead. You no longer age. Instead of sleeping, to gain the benefits of a long rest, you can spend all 8 hours doing light activity. You do not need to eat or breathe, but you can ingest food and drink if you wish. Instead of food and drink, your new form requires blood to sustain itself. For every ten days you go without drinking blood, you suffer one level of exhaustion.</text></trait>
+  <trait>
+    <name>Bite</name>
+    <text>Your set of fangs is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to ld4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. In addition, you may choose to spend up to one-fourth of your hit dice (minimum of one) to deal extra necrotic damage to the target by drinking their blood. Roll the number of your hit dice you chose for damage. You then recover hit points equal to the necrotic damage dealt. Once you spend hit dice with this feature, you cannot do so again until you finish a short or long rest.</text>
+  </trait>
+  <trait>
+    <name>Claws</name>
+    <text>Your set of claws is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal slashing damage equal to ld6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</text>
+  </trait>
+  <trait>
+    <name>Unnatural Sight</name>
+    <text>Your vampirism grants you superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. If you already have darkvision from your race, it's range increases by 30 ft.</text>
+  </trait>
+  <trait>
+    <name>Fledgling Regeneration</name>
+    <text>While not in direct sunlight, you recover an additional 1d6 hit points for every hit dice you spend during a short rest.</text>
+  </trait>
+  <trait>
+    <name>Spider Climb</name>
+    <text>You can climb difficult surfaces, including upside down on ceiling, without needing to make an ability check.</text>
+  </trait>
+  <trait>
+    <name>Stake To The Heart</name>
+    <text>If a piercing weapon made of wood is driven into your heart, you are paralyzed until the stake is removed.</text>
+  </trait>
+  <trait>
+    <name>Forbiddance</name>
+    <text>You can't enter a residence without an invitation from one of the occupants.</text>
+  </trait>
+  <trait>
+    <name>Harmed By Running Water</name>
+    <text>You take 20 acid damage if you end your turn in running water</text>
+  </trait>
+  <trait>
+    <name>Sunlight Sensitivity</name>
+    <text>You take 10 radiant damage when you start your turn in sunlight. While in sunlight, you has disadvantage on attack rolls and Ability Checks.</text>
+  </trait>
+  <trait>
+    <name>Radiance Vulnerability</name>
+    <text>you gain resistance to nectotic but weak to radiant.</text>
+  </trait>
+</race>
+</compendium>
