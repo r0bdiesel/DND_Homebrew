@@ -2,260 +2,130 @@
 <!-- https://drive.google.com/file/d/0BwDTTM3IwwwlUHRFN0l4V3pITVE/view -->
 <compendium version="5">
 	<class>
-		<name>Witcher</name>
-		<hd>10</hd>
-		<proficiency>Strength, Constitution</proficiency>
-		<spellAbility>Intelligence</spellAbility>
-		<autolevel level="1">
-			<feature>
-				<name>Starting Proficiencies</name>
-				<text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
-				<text>Armor: light armor, medium armor, heavy armor, shields</text>
-				<text>Weapons: simple weapons, martial weapons</text>
-				<text>Tools: none</text>
-				<text>Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival</text>
-			</feature>
-			<feature>
-				<name>Starting Equipment</name>
-				<text>You start with the following items, plus anything provided by your background.</text>
-				<text />
-				<text>• (a) chain mail or (b) leather, longbow, and 20 arrows</text>
-				<text>• (a) a martial weapon and a shield or (b) two martial weapons</text>
-				<text>• (a) a light crossbow and 20 bolts or (b) two handaxes</text>
-				<text>• (a) a dungeoneer's pack or (b) an explorer's pack</text>
-				<text />
-				<text>Alternatively, you may start with 5d4 x 10 gp to buy your own equipment.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="1">
-			<feature>
-				<name>Fighting Style</name>
-				<text>You adopt a particular style of fighting as your specialty. Choose a fighting style from the list of optional features. You can't take the same Fighting Style option more than once, even if you get to choose again.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Archery</name>
-				<text>You gain a +2 bonus to attack rolls you make with ranged weapons.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Defense</name>
-				<text>While you are wearing armor, you gain a +1 bonus to AC.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Dueling</name>
-				<text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Great Weapon Fighting</name>
-				<text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Protection</name>
-				<text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</text>
-			</feature>
-			<feature optional="YES">
-				<name>Fighting Style: Two-Weapon Fighting</name>
-				<text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
-			</feature>
-			<feature>
-				<name>Second Wind</name>
-				<text>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</text>
-				<text>    Once you use this feature, you must finish a short or long rest before you can use it again.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="2">
-			<feature>
-				<name>Action Surge</name>
-				<text>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</text>
-				<text>    Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="3">
-			<feature>
-				<name>Martial Archetype</name>
-				<text>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</text>
-			</feature>
-			<feature>
-				<name>Martial Archetype: Gunslinger</name>
-				<text>Gunslingers focus on the ability to design, craft, and utilize powerful, yet dangerous ranged weapons. Through creative innovation and immaculate aim, they become a distant force of death on the battlefield.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Gunsmith</name>
-				<text>Upon choosing this archetype at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Grit</name>
-				<text>Also starting at 3rd level, you gain a number of grit points equal to your Wisdom modifier (minimum of 1). You can spend grit points to performs various “shot” attacks with your firearms. An attack can only be affected by a single shot feature. You can regain spent Grit points in the following ways:</text>
-				<text />
-				<text>Critical hit with a firearm: Each time you score a critical hit with a firearm attack while in the hear of combat, you regain 1 spent grit point. Critical hits gained outside of die rolls (via enemy conditions) do not generate grit.</text>
-				<text />
-				<text>Killing blow with a firearm: Each time you reduce a dangerous creature (DM's discretion) to 0 hit points with a firearm attack, and kill them, you regain 1 spent grit point.</text>
-				<text />
-				<text>You also regain all spent grit points after finishing a short or long rest.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Deadeye Shot</name>
-				<text>Beginning at 3rd level, you can spend 1 grit point to gain advantage on the next attack roll you make with a firearm this round.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="4">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 4th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="5">
-			<feature>
-				<name>Extra Attack</name>
-				<text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
-				<text>    The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="6">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 6th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="7">
-			<feature>
-				<name>Gunslinger: Quickdraw</name>
-				<text>When you reach 7th level, you add your proficiency bonus to your initiative. You can also stow a firearm, then draw another firearm as a single object interaction on your turn.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Violent Shot</name>
-				<text>Starting at 7th level, you've discovered ways to push your firearms past their intended potential at the peril of damaging them. You can spend 1 or more grit points before making an attack roll with a firearm. For each grit point spent, that attack gains +2 to the firearm's misfire score.</text>
-				<text>    If the attack hits, you can roll one additional weapon damage die per grit point spent when determining damage of the attack.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="8">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 8th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="9">
-			<feature>
-				<name>Indomitable</name>
-				<text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</text>
-				<text>    You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="10">
-			<feature>
-				<name>Gunslinger: Trick Shot</name>
-				<text>By 10th level, you've honed your aim to fire off targeted shots to disable an opponent. You can spend 1 grit point before making an attack roll to target a specific location on the target's body. If the specified body part cannot be seen, or the target lacks the part in question, only normal damage is suffered with no additional effect.</text>
-				<text />
-				<text>Trick Shot DC: 8 + your proficiency bonus + your Dexterity modifier</text>
-				<text />
-				<text>Head: On a hit, the target takes normal damage and much make a Constitution saving throw or suffer disadvantage on attacks until the end of their next turn.</text>
-				<text />
-				<text>Arms: On a hit, the target takes normal damage and must make a Strength saving throw or drop 1 held item of your choice.</text>
-				<text />
-				<text>Torso: On a hit, the target takes normal damage and is pushed up to 10 feet directly away from you.</text>
-				<text />
-				<text>Legs/Wings: On a hit, the target takes normal damage and much make a Strength saving throw or get knocked prone.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="11">
-			<feature>
-				<name>Extra Attack (2)</name>
-				<text>At 11th level, you can attack three times whenever you take the Attack action on your turn.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="12">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 12th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="13">
-			<feature>
-				<name>Indomitable (two uses)</name>
-				<text>At 13th level, you can use Indomitable twice between long rests.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="14">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 14th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="15">
-			<feature>
-				<name>Gunslinger: Lightning Reload</name>
-				<text>Starting at 15th level, you can reload any firearm as a bonus action.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Piercing Shot</name>
-				<text>By 15th level, you've refined your deadly gunplay to allow certain shots to pierce through foes and continue on to damage others. You can spend 1 grit points before making an attack roll with a firearm that deals piercing damage. If the attack hits, you make an attack roll against every creature in a line directly behind the target within your first range increment.</text>
-				<text />
-				<text>Only the initial attack can misfire.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="16">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 16th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="17">
-			<feature>
-				<name>Action Surge (two uses)</name>
-				<text>At 17th level, you can use Action Surge twice before a rest, but only once on the same turn.</text>
-			</feature>
-			<feature>
-				<name>Indomitable (three uses)</name>
-				<text>At 17th level, you can use Indomitable three times between long rests.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="18">
-			<feature>
-				<name>Gunslinger: Vicious Intent</name>
-				<text>At 18th level, your firearm attacks score a critical hit on a roll of 19-20.</text>
-			</feature>
-			<feature>
-				<name>Gunslinger: Hemorrhaging Critical</name>
-				<text>Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="19">
-			<feature>
-				<name>Ability Score Improvement</name>
-				<text>When you reach 19th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
-				<text>    If your DM allows the use of feats, you may instead take a feat.</text>
-			</feature>
-		</autolevel>
-
-		<autolevel level="20">
-			<feature>
-				<name>Extra Attack (3)</name>
-				<text>At 20th level, you can attack four times whenever you take the Attack action on your turn.</text>
-			</feature>
-		</autolevel>
-	</class>
+	<name>Witcher</name>
+	<hd>10</hd>
+	<Proficiency>Constitution, Intelligence</Proficiency>
+	<spellAbility>Intelligence</spellAbility>
+	<autolevel level="1"> <slots>0,0,0,0,0,0,0,0,0,0</slots></autolevel>
+	<autolevel level="2"> <slots>1,0,0,0,0,0,0,0,0,0</slots></autolevel>
+	<autolevel level="1">
+		<feature>
+			<name>Starting Proficiencies</name>
+			<text>Armor: none</text>
+			<text>Weapons: Longswords, simple weapons, Hand Crossbow</text>
+			<text>Tools: none</text>
+			<text>Saving Throws: Constitution, Intelligence</text>
+			<text>Skills: Choose two from Insight, Animal Handling, Athletics, Intimidation, Nature, Perception, Persuasion and Survival.</text>
+		</feature>
+		<feature>
+			<name>Starting Equipment</name>
+			<text>You start with the following equipment, in addition to the equipment granted by your background.</text>
+			<text />
+			<text>• (a) two longswords, or (b) a greataxe (if proficient) or (c) two shortswords (if proficient).</text>
+			<text />
+			<text>• (a) Leather armor (if proficient) or (b) scale mail (if proficient) or (c) chain mail (if proficient)</text>
+			<text />
+			<text>• (a) a hand crossbow and 20 bolts or (b) two daggers</text>
+			<text />
+			<text>• An explorer's pack</text>
+			<text />
+			<text>• A blank bestiary and a metal witcher's medallion.</text>
+		</feature>
+		<feature>
+			<name>Witcher School</name>
+			<text>Graduating from one of the five Witcher schools has taught you to fight in their particular style. Pick one from the list later in the class description, you gain bonuses from it at 1st, 3rd, 7th, 10th, and 17th level.</text>
+		</feature>
+		<feature>
+			<name>Beastiary</name>
+			<text>Your training in the ways of hunting monsters has made you an expert in recording and extrapolating data about the habits and lifestyle of many monsters, as well as the knowledge regarding how to fight them. After you kill a Monster, you may take 5 minutes and record it in your bestiary within the next 6 hours, and for all future encounters against that species of enemy (e.g. Griffon, not Monstrosity) in which you possess the bestiary, you may see into its weaknesses. You learn its damage immunities, resistances, as well as damage vulnerabilities.</text>
+		</feature>
+		<feature>
+			<name>Medallion</name>
+			<text>During each witcher's training, they receive a medallion which represents the beast of their school, which trembles when Monsters are around you. While you have your medallion with you and there are Monsters within 100 feet of you that you cannot see, make a DC 10 perception check. On a sucess, you notice the medallion is shaking, alerting you to their presence, but not number, type, size or exact location.</text>
+		</feature>
+	</autolevel>
+	<autolevel level="2">
+		<feature>
+			<name>Signs</name>
+			<text>When you reach 2nd level you learn five spells specific to the witcher class, which use sign points rather than spell slots to cast. All only use somatic components. You may only cast the enhanced version of a sign if it is specifically outlined in your school description. Casting an enhanced version costs 2 sign points.</text>
+		</feature>
+	</autolevel>
+	<autolevel level="3">
+		<feature>
+			<name>Witcher School</name>
+			<text>Graduating from one of the five Witcher schools has taught you to fight in their particular style. Pick one from the list later in the class description, you gain bonuses from it at 1st, 3rd, 7th, 10th, and 17th level.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Wolf</name>
+			<text>Witchers of the school of the wolf excel at adaptability. They are resourceful warriors, always preparing before they engage in combat, and this allows them to defeat enemies much stronger than themselves.</text>
+			<text>When you choose this school at first level, you gain proficiency in Athletics, Medium Armor, and Longswords now count as finesse weapons.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Wolf: Improvised Arcana</name>
+			<text>Starting at 3rd level, your versatility has expanded to include signs. You learn one enhanced version of a sign, but it costs 2 sign points to use. Whenever you gain a level in this class, you may change your enhanced sign out with another one.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Wolf: Versatile Alchemist</name>
+			<text>Starting at 7th level, you have picked up some of the tricks of alchemy. You learn how to craft two enhanced versions of potions you already know. Whenever you gain a level in this class, you may exchange one of your enhanced potion formulas for another one you already know.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Wolf: Bombslinger</name>
+			<text>Starting at 10th level, you may throw a bomb as a bonus action. In addition, you may carry an extra bomb with you. If you have access to a tinker's kit while making the bombs and you are proficient, you may increase or decrease the explosive range of the bombs by 5 feet. You may also throw bombs accurately up to 40 feet away from you.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Wolf: Adaptable</name>
+			<text>Starting at 17th level, you have unlocked a new understanding of adapting to face your enemies. After you take damage from an enemy attack, you may use your action to become resistant to that type of damage for up to 5 minutes. You must finish a long rest before you can use this ability again. You also gain the ability to choose what type of damage a longsword you are wielding deals, choosing between Slashing, Bludgeoning or Piercing. You choose the damage type after you make the attack roll, but before the Dungeon Master declares a hit or miss. If you do not state the type, it deals slashing damage.</text>
+		</feature>
+		<feature optional="YES">
+			<name>School of the Cat</name>
+			<text>The teachings of the School of the Cat focus on two things. Precision and Speed. As a result, they produce swift and deadly fighters capable of whirling through masses of enemies in seconds.</text>
+			<text>When you choose this school at first level, you gain proficiency in Acrobatics, light armor, rapiers, and longswords count as finesse weapons.</text>
+		</feature>
+		<feature>
+			<name>Bombs</name>
+			<text>Starting at 3rd level, you have learned how to make witcher’s bombs, small explosives that can affect your enemies in a multitude of ways. You may craft bombs during a short or long rest. You may only possess a number of bombs equal to your proficiency bonus at one time, and may not have more than 3 of the same type at any time. Each crafting of a bomb provides up to 3 bombs.</text>
+			<text>At second level, you know 1 bomb formula from the list at the end of the class description, and each time you level up, you may select one of your known bomb formula and replace it with one you don’t know. Throwing a bomb takes an action, and you may throw any bomb accurately towards a spot within 35 feet of you.</text>
+			<text>Some bombs make use of saving throws, your Bomb Save DC is 8 + your Intelligence Modifier + your proficiency bonus.</text>
+		</feature>
+	</autolevel>
+	<autolevel level="4">
+		<feature>
+			<name>Ability Score Improvement</name>
+			<text>When you reach 4th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+			<text>    If your DM allows the use of feats, you may instead take a feat.</text>
+		</feature>
+	</autolevel>
+	<autolevel level="5">
+	</autolevel>
+	<autolevel level="6">
+	</autolevel>
+	<autolevel level="7">
+	</autolevel>
+	<autolevel level="8">
+	</autolevel>
+	<autolevel level="9">
+	</autolevel>
+	<autolevel level="10">
+	</autolevel>
+	<autolevel level="11">
+	</autolevel>
+	<autolevel level="12">
+	</autolevel>
+	<autolevel level="13">
+	</autolevel>
+	<autolevel level="14">
+	</autolevel>
+	<autolevel level="15">
+	</autolevel>
+	<autolevel level="16">
+	</autolevel>
+	<autolevel level="17">
+	</autolevel>
+	<autolevel level="18">
+	</autolevel>
+	<autolevel level="19">
+	</autolevel>
+	<autolevel level="20">
+	</autolevel>
+</class>
 </compendium>
