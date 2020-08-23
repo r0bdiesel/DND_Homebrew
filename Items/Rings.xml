@@ -2,10 +2,9 @@
 <compendium version="5">
 	<item>
 		<name>Blood Cursed Ring of Strength</name>
-		<type>S</type>
+		<type>RG</type>
 		<magic>1</magic>
-		<weight>6</weight>
-		<ac>2</ac>
+		<weight>.01</weight>
 		<rarity>Legendary</rarity>
 		<text>Rarity: Legendary</text>
 		<text>Requires Attunement</text>
