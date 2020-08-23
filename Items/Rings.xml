@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<item>
+		<name>Blood Cursed Ring of Strength</name>
+		<type>S</type>
+		<magic>1</magic>
+		<weight>6</weight>
+		<ac>2</ac>
+		<rarity>Legendary</rarity>
+		<text>Rarity: Legendary</text>
+		<text>Requires Attunement</text>
+		<text>A simple, black metal band. The words "I hunger" are engraved along the inside, in Abyssal text that smolders a dim scarlet, though it remains invisible to those not attuned to the item (See Invisibility and the like still notice the text plainly, however.)</text>
+		<text>Curse: If attuned to you, if your maximum Hit Points are 15 or lower, this ring does nothing. However, if your maximum Hit Points are 16 or higher, placing the ring upon your finger causes it to bite into your skin, dealing you 1d6+9 necrotic damage and reducing your maximum Hit Points by an amount equal to the damage dealt- this necrotic damage cannot be reduced by Resistance or Immunity. However, your Strength score is also increased by 2. The ring cannot be removed voluntarily unless a Greater Restoration spell is cast upon it, and its removal reverts both your maximum Hit Points and Strength score to their original values.</text>
+		<text>Blood Sacrifice: Once per day while wearing the ring, by focusing on it for 1 minute, you may deal yourself an additional 1d6+9 necrotic damage and reduce your maximum Hit Points by an amount equal to the damage taken to, again, increase your Strength score by 2. This can be repeated until either your maximum Hit Points are 16 or lower (in which case you lack insufficient vital energy to continue feeding the ring), or until your Strength is increased to 26.</text>
+		<text>Once per day while wearing the ring, by focusing on it for 1 minute, you may deal yourself an additional 1d6+9 necrotic damage and reduce your maximum Hit Points by an amount equal to the damage taken to, again, increase your Strength score by 2. This can be repeated until either your maximum Hit Points are 16 or lower (in which case you lack insufficient vital energy to continue feeding the ring), or until your Strength is increased to 26.</text>
+	</item>
+	
+</compendium>
