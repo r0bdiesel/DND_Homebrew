@@ -2,7 +2,7 @@
 <compendium version="5">
          <item>
 		<name>Scrying Bones</name>
-		<type>HA</type>
+		<type>WI</type>
 		<magic>1</magic>
 		<weight>0.1</weight>
 		<text>Rarity: Uncommon</text>
