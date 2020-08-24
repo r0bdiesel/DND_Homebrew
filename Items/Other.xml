@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+         <item>
+		<name>Scrying Bones</name>
+		<type>HA</type>
+		<magic>1</magic>
+		<weight>0.1</weight>
+		<text>Rarity: Uncommon</text>
+		<text>Once per day, these knucklebones can be used to ask a yes, no, or maybe question to the fates (DM). There are three bones carved into happy faces and sad faces. All happy faces mean yes, all sad means no, anything in-between means maybe.</text>
+	</item>
+</compendium>
