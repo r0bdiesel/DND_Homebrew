@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5"><character><version>37</version><uid>8822</uid><name>Thor Lvl1</name><abilities>15,10,14,10,13,10,</abilities><hpMax>12</hpMax><hpCurrent>12</hpCurrent><unarmed>1</unarmed><race><name>Protector Aasimar</name><feat><name>Darkvision</name><text>Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><feat><name>Celestial Resistance</name><text>You have resistance to necrotic damage and radiant damage.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><feat><name>Healing Hands</name><text>As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can&#39;t use it again until you finish a long rest.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><feat><name>Light Bearer</name><text>You know the light cantrip. Charisma is your spellcasting ability for it.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and Celestial.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><feat><name>Radiant Soul</name><text>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.
+	Your transformation lasts for 1 minute or until you end it as a bonus action.. During it, you have a flysing speed of 30 feet, and once on each of your turns, you can deal extra radiant damageto one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
+	Once you use this trait, you can&#39;t use it again until you finish a long rest.
+ 
+Source: Volo&#39;s Guide to Monsters, p. 105</text><expanded>0</expanded></feat><mod><category>1</category><type>4</type><value>1</value></mod><mod><category>1</category><type>5</type><value>2</value></mod><spellAbility>5</spellAbility></race><background><name>Fallen Noble</name><feat><name>Description</name><text>You were once the member of a powerful noble family. Perhaps you were from a well-known merchant family, or you came from a line of wealthy aristocrats. However, due to events beyond your control―or perhaps they were―, you or your family have fallen from grace. Maybe your family was outcast from the kingdom with their property stripped away after one of the family members committed an unforgivable crime, or they were attacked and killed by angry mobs, with you being the sole survivor. Perhaps you were disowned for not following family tradition, or left of your own accord, not wanting to be bound by the fate your parents had set for you. Work with your DM to find out your family&#39;s role and how their role and downfall affected the world in your campaign.
+Whatever the reasoning, you were of noble birth, yet your family is no longer considered noble. You have been forced to make a new life for yourself and adjust to life without servants at your command and money at your disposal. Will you attempt to reclaim your title or move away from it? Will you shout your true identity from the rooftops hoping someone will believe you, or keep it a secret from everyone but your closest allies for fear of being accused as a liar? It&#39;s all up to you.
+</text><expanded>0</expanded></feat><feat><name>Starting Proficiencies</name><text>Skill Proficiencies: History and Persuasion or Deception
+
+Tool Proficiencies: One type of gaming set or musical instrument
+
+Languages: One of your choice</text><expanded>0</expanded></feat><feat><name>Starting Equipment</name><text>Equipment: A set of common clothes, a trinket from your family (statuette, music box, etc.), a warm blanket, and a pouch containing 15 gp</text><expanded>0</expanded></feat><feat><name>Downfall Of The Powerful</name><text>Your family was once wealthy and powerful, but something caused you to lose everything. What happened? Was it something out of your control, or did you have a part in it? Was your own family to blame? Or perhaps another noble family wanting to take you down? Discuss with your DM what caused your downfall or roll a d8 and choose from the table below.
+
+d6	Downfall of the Powerful
+1	Someone in my family committed a heinous crime, resulting in our power being stripped away.
+2	My family was killed by an angry mob. I was the only survivor.
+3	I refused to follow family tradition or what my parents wanted for me and was disowned for it.
+4	I was accused of a crime. Whether or not I was guilty, rumors began to spread, eventually causing my fall from grace.
+5	Another noble family tore mine apart through lies, deceit, and sabotage.
+6	A high-ranking member of my family was killed and everything slowly fell apart.
+</text><expanded>0</expanded></feat><feat><name>Feature: Insider Knowledge</name><text>You know exactly who to talk to in order to find out gossip, hidden secrets, or any other information about various noble families. This information could come from members of the family in question, servants who work for them, other people who either know them personally, or those who may have eavesdropped on their conversations. Not everyone is willing to reveal such private information, though― if the person believes they may be put in a dangerous situation by revealing the information you request, they will not tell you or may even lie to protect themselves.
+</text><expanded>0</expanded></feat><feat><name>Personality Traits</name><text>d8	Personality Trait
+1	I still demand others to treat me as they would any other noble.
+2	I don’t like getting my hands dirty, and often make others do the dirty work.
+3	I&#39;ll tell anybody I&#39;m from a noble family, even random strangers. They have to know!
+4	I can&#39;t let anybody but those I trust the most know of my noble birth.
+5	Despite my noble birth, I do not consider myself superior to others. We are all the same in the end.
+6	I strive to make up for my family&#39;s horrible behavior in whatever way I can.
+7	I&#39;ll be fine even in the simplest conditions. Anything is better than nothing.
+8	Despite my noble birth, I act more like a commoner.</text><expanded>0</expanded></feat><feat><name>Ideal</name><text>d6	Ideal
+1	Sympathy. I know what it&#39;s like to have nothing, and I wish to help those who are less fortunate. (Good)
+2	Power.I want to reclaim my noble status by any means necessary. (Chaotic)
+3	Revenge. I&#39;ll make those who caused my fall from grace pay for what they did. (Evil)
+4	Moving forward. I want to leave my old life behind and start anew. (Lawful)
+5	My allies. The blood of the covenant is thicker than the water of the womb. (Any)
+6	Redemption. I want to make up for what my family did, and protect others from those who abuse their power. (Good)
+</text><expanded>0</expanded></feat><feat><name>Bond</name><text>d6	Bond
+1	A lower-class family helped me when I was at my lowest. I want to repay them in whatever way I can.
+2	I strive to leave my old alliances behind and forge new friendships.
+3	When I left my old life behind, I also left an old friend behind. I wish to see them again.
+4	I still hold some loyalty to my former family.
+5	I wish to make up for my family&#39;s misdeeds.
+6	I want to regain my status and restore my family&#39;s honor.</text><expanded>0</expanded></feat><feat><name>Flaw</name><text>d6	Flaw
+1	I&#39;m often paranoid that my allies will discover my noble birth and call me a traitor.
+2	I&#39;ll do anything to regain the power I lost, even if it means throwing my allies under the cart.
+3	I feel responsible for what my family did, even though I had no part in it.
+4	I&#39;ll do anything to hide my past identity. Nobody can know who I used to be.
+5	Even though I no longer hold the title, I still act like I&#39;m a noble.
+6	Despite my fall from grace, I still see myself as superior to others. This often gets me in trouble.</text><expanded>0</expanded></feat></background><class><name>Fighter</name><hd>3</hd><wealth>5d4x10</wealth><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><proficiency>0</proficiency><proficiency>2</proficiency><proficiency>100</proficiency><proficiency>103</proficiency><numClassSkills>2</numClassSkills><armor>light armor, medium armor, heavy armor, shields</armor><weapons>simple weapons, martial weapons</weapons><tools>none</tools><feat><name>Starting Fighter</name><text>As a 1st-level Fighter, you begin play with 10+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: light armor, medium armor, heavy armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: none
+• Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) chain mail or (b) leather, longbow, and 20 arrows
+• (a) a martial weapon and a shield or (b) two martial weapons
+• (a) a light crossbow and 20 bolts or (b) two handaxes
+• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack 
+ 
+Alternatively, you may start with 5d4x10 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 70</text><optional>1</optional><expanded>0</expanded></feat><feat><name>Second Wind</name><text>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+	Once you use this feature, you must finish a short or long rest before you can use it again.
+	
+Source: Player&#39;s Handbook, p. 72</text><expanded>0</expanded></feat><feat><name>Fighting Style</name><text>You adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Great Weapon Fighting, Mariner, Protection, or Two-Weapon Fighting. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+	
+Source: Player&#39;s Handbook, p. 72</text><expanded>0</expanded></feat><feat><name>Fighting Style: Dueling</name><text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><expanded>0</expanded><special>2</special></feat><autolevel><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Fighter</name><text>As a 1st-level Fighter, you begin play with 10+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: light armor, medium armor, heavy armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: none
+• Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) chain mail or (b) leather, longbow, and 20 arrows
+• (a) a martial weapon and a shield or (b) two martial weapons
+• (a) a light crossbow and 20 bolts or (b) two handaxes
+• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack 
+ 
+Alternatively, you may start with 5d4x10 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 70</text><optional>1</optional></feat><feat><name>Multiclass Fighter</name><text>To multiclass as a Fighter, you must meet the following prerequisites:
+• Strength 13 or Dexterity 13
+ 
+You gain the following proficiencies:
+• light armor, medium armor, shields, simple weapons, martial weapons
+ 
+Source: Player&#39;s Handbook, p. 163</text><optional>1</optional></feat><feat><name>Second Wind</name><text>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+	Once you use this feature, you must finish a short or long rest before you can use it again.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat><feat><name>Fighting Style</name><text>You adopt a particular style of fighting as your specialty. Choose one of the following options: Archery, Defense, Dueling, Great Weapon Fighting, Mariner, Protection, or Two-Weapon Fighting. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat><feat><name>Fighting Style: Archery</name><text>You gain a +2 bonus to attack rolls you make with ranged weapons.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>0</special></feat><feat><name>Fighting Style: Blind Fighting</name><text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.</text><optional>1</optional></feat><feat><name>Fighting Style: Protection</name><text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Close Quarters Shooter</name><text>You are trained in making ranged attacks at close quarters. When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional><mod><type>5</type><value>1</value></mod></feat><feat><name>Fighting Style: Defense</name><text>While you are wearing armor, you gain a +1 bonus to AC.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>1</special></feat><feat><name>Fighting Style: Dueling</name><text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>2</special></feat><feat><name>Fighting Style: Interception</name><text>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction. </text><optional>1</optional></feat><feat><name>Fighting Style: Mariner</name><text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+	
+Source: Unearthed Arcana: Waterborne Adventures, p. 3</text><optional>1</optional></feat><feat><name>Fighting Style: Great Weapon Fighting</name><text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Superior Technique</name><text>You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+
+You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.</text><optional>1</optional></feat><feat><name>Fighting Style: Tunnel Fighter</name><text>You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional></feat><feat><name>Fighting Style: Thrown Weapon</name><text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+
+In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.</text><optional>1</optional></feat><feat><name>Fighting Style: Two-Weapon Fighting</name><text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Unarmed</name><text>Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+
+At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.</text><optional>1</optional></feat></autolevel><autolevel><level>2</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Action Surge</name><text>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+	Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>3</level><spellSlotsOptional>1</spellSlotsOptional><slots>2,2,0,0,0,0,0,0,0,0,</slots><feat><name>Martial Archetype</name><text>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat><feat><name>Martial Archetype: Arcane Archer</name><text>An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of their most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Arcane Archer&#39;s Lore (Arcane Archer)</name><text>At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the prestidigitation or druidcraft cantrip.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Arcane Shot (Arcane Archer)</name><text>At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see the “Arcane Shot Options” below). 
+	Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn’t involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest. 
+	You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Martial Archetype: Battle Master</name><text>Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Student of War (Battle Master)</name><text>At 3rd level, you gain proficiency with one type of artisan’s tools of your choice.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Combat Superiority (Battle Master)</name><text>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
+	 
+Maneuvers: You learn three maneuvers of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+	You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
+	 
+Superiority Dice: You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+	You gain another superiority die at 7th level and one more at 15th level.
+	 
+Saving Throws: Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
+	Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Martial Archetype: Brute</name><text>Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Brute Force (Brute)</name><text>Starting at 3rd level, you’re able to strike with your weapons with especially brutal force. Whenever you hit with a weapon that you’re proficient with and deal damage, the weapon’s damage increases by an amount based on your level in this class: by 1d4 at 3rd level, 1d6 at 10th level, 1d8 at 16th level, and 1d10 at 20th level.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Martial Archetype: Cavalier</name><text>The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Bonus Proficiency (Cavalier)</name><text>When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Born to the Saddle (Cavalier)</name><text>Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
+	Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Unwavering Mark (Cavalier)</name><text>Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a  melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.
+	While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn’t target you.
+	In addition, if a creature marked by you deals damage to anyone other than you, you can make a special melee weapon attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack’s weapon deals extra damage to the target equal to half your fighter level.
+	Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Martial Archetype: Champion</name><text>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Improved Critical (Champion)</name><text>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Martial Archetype: Eldritch Knight</name><text>The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter’s reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
+	
+Source: Player&#39;s Handbook, p. 74</text><optional>1</optional></feat><feat><name>Spellcasting (Eldritch Knight)</name><text>When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list. 
+	 
+Cantrips: You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level. 
+	 
+Spell Slots: The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. 
+	For example, if you know the 1st-level spell shield and have a 1st-level and a 2nd-level spell slot available, you can cast shield using either slot. 
+	 
+Spells Known of 1st-level and Higher: You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.
+	The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+	The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+	Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you’re replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic. 
+	 
+Spellcasting Ability: Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. 
+	 
+Spell save DC = 8+your proficiency bonus+your Intelligence modifier 
+	Spell attack modifier = your proficiency bonus+your Intelligence modifier
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Weapon Bond (Eldritch Knight)</name><text>At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
+	Once you have bonded a weapon to yourself, you can’t be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
+	You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Martial Archetype: Gunslinger</name><text>Most warriors and combat specialists spend their years perfecting the classic arts of swordplay, archery, or polearm tactics. Whether duelist or infantry, martial weapons were seemingly perfected long ago, and the true challenge is to master them.
+	However, some minds couldn’t stop with the innovation of the crossbow. Experimentation with alchemical components and rare metals have unlocked the secrets of controlled explosive force. The few who survive these trials of ingenuity may become the first to create, and deftly wield, the first firearms.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 1</text><optional>1</optional></feat><feat><name>Firearm Proficiency (Gunslinger)</name><text>Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Gunsmith (Gunslinger)</name><text>Upon choosing this archetype at 3rd level, you gain proficiency with Tinker’s Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM’s discretion), Some extremely intricate firearms are only available through crafting.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Grit (Gunslinger)</name><text>Also starting at 3rd level, you gain a number of grit points equal to your Wisdom modifier (minimum of 1). You can spend grit points to perform various "shot" attacks with your firearms. An attack can only be affected by a single shot feature. You can regain spent grit points in the following ways.
+	 
+	Critical hit with a firearm: Each time you score a critical hit with a firearm attack while in the heat of combat, you regain 1 spent grit point.
+	 
+	Killing blow with a firearm: Each time you reduce a dangerous creature to 0 hit points with a firearm attack and kill it, you regain 1 spent grit point.
+	 
+	You also regain all spent grit points after you finish a short or long rest.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Deadeye Shot (Gunslinger)</name><text>Beginning at 3rd level, you can spend 1 grit point to gain advantage on the next attack roll you make with a firearm this round.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Martial Archetype: Knight</name><text>The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy’s forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 2</text><optional>1</optional></feat><feat><name>Born to the Saddle (Knight)</name><text>Starting at 3rd level, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed. In addition, you have advantage on saving throws made to avoid falling off your mount. If you fall off it, you can automatically land on your feet if you aren’t incapacitated and you fall less than 10 feet.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 2</text><optional>1</optional></feat><feat><name>Implacable Mark (Knight)</name><text>At 3rd level, you excel at foiling attacks and protecting your allies by menacing your foes. When you hit a creature with a melee weapon attack, the target is marked by you until the end of your next turn. A creature ignores this effect if the creature can’t be frightened. 
+	The marked target has disadvantage on any attack roll against a creature other than you or someone else who marked it. 
+	If a target marked by you is within 5 feet of you on its turn and it moves at least 1 foot or makes an attack that suffers disadvantage from this feature, you can make one melee weapon attack against it using your reaction. This attack roll has advantage, and if it hits, the attack’s weapon deals extra damage to the target equal to your fighter level. 
+	You can make this special attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn. You can make this attack three times, and you regain all expended uses of it when you finish a short or long rest.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 2</text><optional>1</optional></feat><feat><name>Martial Archetype: Monster Hunter</name><text>As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Monster Hunter)</name><text>When you choose this archetype at 3rd level, you gain proficiency in two of the following skills of your choice: Arcana, History, Insight, Investigation, Nature, or Perception. You can gain proficiency with a tool of your choice in place of one skill choice.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Combat Superiority (Monster Hunter)</name><text>When you choose this archetype at 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice. 
+	 
+Superiority Dice:
+	You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+	You gain another superiority die at 7th level and one more at 15th level. 
+	 
+Using Superiority Dice:
+	You can expend superiority dice to gain a number of different benefits: 
+	 
+• When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied. 
+	 
+• When you damage a creature with a weapon attack, you can expend one superiority die to add it to the damage roll. You can use this ability after rolling damage. If the attack causes the target to make a Constitution saving throw to maintain concentration, it has disadvantage on that save. 
+	 
+• When you make an Intelligence, a Wisdom, or a Charisma saving throw, you can expend one superiority die to add it to the roll. You can use this feature only before you learn if the save succeeded or failed. 
+	 
+• When you make a Wisdom (Perception) check to detect a hidden creature or object, or a Wisdom (Insight) check to determine if someone is lying to you, you can expend one superiority die to add it to the roll. You can use this feature after seeing the total but before learning if you succeeded or failed.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Hunter&#39;s Mysticism (Monster Hunter</name><text>At 3rd level, your study of the supernatural gives you a limited ability to use magic. You can cast detect magic as a ritual. You can cast protection from evil and good, but you cannot cast it again with this feature until you finish a long rest. Wisdom is your spellcasting ability for these spells.
+	In addition, you gain the ability to speak one of the following languages of your choice: Abyssal, Celestial, or Infernal.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Martial Archetype: Psi Warrior</name><text>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.
+
+As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind’s power as both weapon and shield.</text><optional>1</optional></feat><feat><name>Psionic Power (Psi Warrior)</name><text>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+
+Some of your powers expend the Psionic Energy die they use, as specified in a power’s description, and you can’t use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can’t do so again until you finish a short or long rest.
+
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+
+The powers below use your Psionic Energy dice.
+
+Protective Field. When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
+
+Psionic Strike. You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.
+
+Telekinetic Movement. You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can’t do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</text><optional>1</optional></feat><feat><name>Martial Archetype: Purple Dragon Knight</name><text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom’s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.
+	A Purple Dragon Knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.
+	A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight’s actions can awaken reserves of courage and conviction in allies that they never suspected they had.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional></feat><feat><name>Restriction: Knighthood (Purple Dragon Knight)</name><text>Purple Dragon Knights are tied to a specific order of Cormyrean knighthood.
+	Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional></feat><feat><name>Rallying Cry (Purple Dragon Knight)</name><text>When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.
+	When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional></feat><feat><name>Martial Archetype: Samurai</name><text>The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai’s resolve is nearly unbreakable, and the enemies in a Samurai’s path have two choices: yield or die fighting.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Bonus Proficiency (Samurai)</name><text>When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Fighting Spirit (Samurai)</name><text>Starting at 3rd level, your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on weapon attack rolls until the end of your current turn. When you do so, you also gain 5 temporary hit points. The number of temporary hit points increases when you reach certain levels in this class, increasing to 10 at 10th level and 15 at 15th level.
+	You can use this feature three times, and you regain all expended uses of it when you finish a long rest.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Martial Archetype: Scout</name><text>The archetypal Scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Scout)</name><text>When you choose this archetype at 3rd level, you gain proficiency in three of the following skills of your choice: Acrobatics, Athletics, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You can choose to gain proficiency with thieves’ tools in place of one skill choice.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Combat Superiority (Scout)</name><text>At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
+	 
+Superiority Dice:
+	You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a long or short rest. You gain another superiority die at 7th level and one more at 15th level.
+	 
+Using Superiority Dice:
+	You can expend superiority dice to gain a number of different benefits.
+	 
+• When you make a check that allows you to apply your proficiency in Athletics, Nature, Perception, Stealth, or Survival, you can expend one superiority die to bolster the check. Add half the number rolled on the superiority die (rounding up) to your check. You apply this bonus after making the check but before learning if it was successful.
+	 
+• When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied.
+	 
+• If you are hit by an attack while wearing light or medium armor, you can expend one superiority die as a reaction, adding the number rolled to your AC. If the attack still hits, you take half damage from it.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Natural Explorer (Scout)</name><text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+	While traveling for an hour or more in your favored terrain, you gain the following benefits.
+	 
+• Difficult terrain doesn’t slow your group’s travel.
+	 
+• Your group can’t become lost except by magical means.
+	 
+• Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+	 
+• If you are traveling alone, you can move stealthily at a normal pace.
+	 
+• When you forage, you find twice as much food as you normally would.
+	 
+• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+	 
+	You choose additional favored terrain types at 7th and 15th level.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Martial Archetype: Sharpshooter</name><text>The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 3</text><optional>1</optional></feat><feat><name>Steady Aim (Sharpshooter)</name><text>Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you’re wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target: 
+	 
+• The attacks ignore half and three-quarters cover. 
+	 
+• On each hit, the weapon deals additional damage to the target equal to 2 + half your fighter level. 
+	You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 3</text><optional>1</optional></feat><feat><name>Martial Archtype: Rune Knight</name><text>Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant’s work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant’s craft and learned how to apply magic runes to empower your equipment.</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Rune Knight)</name><text>You gain proficiency with smith’s tools, and you learn to speak, read, and write Giant.</text><optional>1</optional></feat><feat><name>Giant Might (Rune Knight)</name><text>You have learned how to imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:
+
+If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.
+
+You have advantage on Strength checks and Strength saving throws.
+
+Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</text><optional>1</optional></feat><feat><name>Rune Carver (Rune Knight)</name><text>You can use magic runes to enhance your gear. You learn two runes of your choice, from among the runes described below, and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.
+
+Runes Known
+Fighter Level	Number of Runes
+3rd	                       2
+7th	                       3
+10th	                4
+15th	                5
+Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else you can wear or hold in a hand. Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes at a time.
+
+The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Constitution modifier.</text><optional>1</optional></feat><feat><name>Martial Archetype: Echo Knight</name><text>A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.</text><optional>1</optional></feat><feat><name>Manifest Echo (Echo Knight)</name><text>You can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you’re incapacitated.
+
+Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
+
+You can use the echo in the following ways:
+
+As a bonus action, you can teleport, magically swapping places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
+When you take the Attack action on your turn, any attack you make with that action can originate from your space or the echo’s space. You make this choice for each attack.
+When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo’s space.</text><optional>1</optional></feat><feat><name>Unleash Incarnation (Echo Knight)</name><text>You can heighten your echo’s fury. Whenever you take the Attack action, you can make one additional melee attack from the echo’s position.
+
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text><optional>1</optional></feat></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat><feat><name>Martial Versatility: Optional Feature</name><text>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+
+Replace a fighting style you know with another fighting style available to fighters.
+If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.</text><optional>1</optional></feat></autolevel><autolevel><level>5</level><spellSlotsOptional>1</spellSlotsOptional><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Extra Attack</name><text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+	The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>6</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (2nd)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>7</level><spellSlotsOptional>1</spellSlotsOptional><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Arcane Shot Option (3rd)</name><text>You gain an additional Arcane Shot option.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 1</text><optional>1</optional></feat><feat><name>Magic Arrow (Arcane Archer)</name><text>At 7th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it maguical for the purposes of overcoming resistance and immunity to non-magical attacs and damage. The magic fades from the arrow immediately after it hits or misses its target.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Curving Shot (Arcane Archer)</name><text>At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Arcane Shot Option (3rd)</name><text>You gain an additional Arcane Shot option.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Know Your Enemy (Battle Master)</name><text>Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice.
+	 
+• Strength score
+• Dexterity score
+• Constitution score
+• Armor Class
+• Current hit points
+	 
+• Total class levels (if any)
+	 
+• Fighter class levels (if any)
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Additional Maneuvers (Battle Master)</name><text>You learn two additional Combat Superiority maneuvers.
+	
+Source: Player&#39;s Handbook, p. 74</text><optional>1</optional></feat><feat><name>Brutish Durability (Brute)</name><text>Beginning at 7th level, your toughness allows you to shrug off assaults that would devastate others.
+	Whenever you make a saving throw, roll 1d6 and add the die to your saving throw total. If applying this bonus to a death saving throw increases the total to 20 or higher, you gain the benefits of rolling a 20 on the d20.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Warding Maneuver (Cavalier)</name><text>At 7th level, you learn to fend off strikes directed at you, your mount, ot other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can roll 1d8 as a reaction if you’re wielding a melee weapon or a shield. Roll the de, and add the number rolled to the target’s AC against that attack. If the attack still hits, the target has resistance against the attack’s damage.
+	You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Remarkable Athlete (Champion)</name><text>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
+	In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>War Magic (Eldritch Knight)</name><text>Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Quickdraw (Gunslinger)</name><text>When you reach 7th level, you gain a +2 bonus to initiative. You can also stow a firearm, then draw another firearm as a single object interaction on your turn.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional><mod><type>12</type><value>2</value></mod></feat><feat><name>Violent Shot (Gunslinger)</name><text>Starting at 7th level, you’ve discovered ways to push your firearms past their intended potential at the peril of damaging them. You can spend 1 or more grit points before making an attack roll with a firearm. For each grit point spent, that attack gains +2 to the firearm’s misfire score.
+	If the attack hits, you can roll one additional weapon damage die per grit point spent when determining damage of the attack.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Noble Cavalry (Knight)</name><text>At 7th level, you gain proficiency in two of the following skills of your choice: Animal Handling, History, Insight, Persuasion, or Religion. Alternatively, you learn one language of your choice.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 2</text><optional>1</optional></feat><feat><name>Monster Slayer (Monster Hunter)</name><text>At 7th level, whenever you expend superiority dice to add to a damage roll, you can expend up to two dice instead of just one, adding both to the roll. Both dice are expended as normal. If the target of your attack is an aberration, a fey, a fiend, or an undead, you deal maximum damage with both dice, instead of rolling them.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Telekinetic Adept (Psi Warrior)</name><text>You have mastered new ways to use your telekinetic abilities, detailed below.
+
+Psi-Powered Leap. As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can’t do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
+
+Telekinetic Thrust. When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.</text><optional>1</optional></feat><feat><name>Royal Envoy (Purple Dragon Knight)</name><text>A Purple Dragon Knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace.
+	At 7th level, you gain proficiency in the Persuasion skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice: Animal Handling, Insight, Intimidation, or Performance.
+	Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional><proficiency>113</proficiency><mod></mod></feat><feat><name>Elegant Courtier (Samurai)</name><text>Starting at 7th level, your discipline and attention to detail allow you to excel in social situation. Whenever you make a Charisma (Persuasion) check, you gain a bonus to the check equal to your Wisdom modifier.
+	Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional><proficiency>4</proficiency></feat><feat><name>Careful Eyes (Sharpshooter)</name><text>Starting at 7th level, you excel at picking out
+hidden enemies and other threats. You can take
+the Search action as a bonus action.
+
+	You also gain proficiency in the Perception,
+Investigation, or Survival skill (choose one).
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 4</text><optional>1</optional></feat><feat><name>Runic Shield (Rune Knight)</name><text>You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the d20 and use the new roll.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text><optional>1</optional></feat><feat><name>Echo Avatar (Echo Knight)</name><text>You can temporarily transfer your consciousness to your echo. As an action, you can see through your echo’s eyes and hear through its ears. During this time, you are deafened and blinded. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.</text><optional>1</optional></feat></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (3rd)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>9</level><spellSlotsOptional>1</spellSlotsOptional><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Indomitable</name><text>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>10</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,0,0,0,0,0,0,0,</slots><feat><name>Arcane Shot Option (4th)</name><text>You gain an additional Arcane Shot option.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Improved Combat Superiority (Battle Master)</name><text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
+	
+Source: Player&#39;s Handbook, p. 74</text><optional>1</optional></feat><feat><name>Additional Maneuvers (Battle Master)</name><text>You learn two additional Combat Superiority maneuvers.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Additional Fighting Style (Brute)</name><text>At 10th level, you can choose a second option from the Fighting Style feature.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Fighting Style: Archery</name><text>You gain a +2 bonus to attack rolls you make with ranged weapons.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>0</special></feat><feat><name>Fighting Style: Ambush</name><text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren’t incapacitated.</text><optional>1</optional></feat><feat><name>Fighting Style: Bait And Switch</name><text>When you’re within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn’t incapacitated. This movement doesn’t provoke opportunity attacks.
+
+Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.</text><optional>1</optional></feat><feat><name>Fighting Style: Brace</name><text>When a creature you can see moves into the reach you have with the melee weapon you’re wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon’s damage roll.</text><optional>1</optional></feat><feat><name>Fighting Style: Commanding Presence</name><text>When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.</text><optional>1</optional></feat><feat><name>Fighting Style: Close Quarters Shooter</name><text>You are trained in making ranged attacks at close quarters. When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional></feat><feat><name>Fighting Style: Defense</name><text>While you are wearing armor, you gain a +1 bonus to AC.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>1</special></feat><feat><name>Fighting Style: Dueling</name><text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>2</special></feat><feat><name>Fighting Style: Grappling Strike</name><text>Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player’s Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.</text><optional>1</optional></feat><feat><name>Fighting Style: Great Weapon Fighting</name><text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Mariner</name><text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+	
+Source: Unearthed Arcana: Waterborne Adventures, p. 3</text><optional>1</optional></feat><feat><name>Fighting Style: Protection</name><text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Quick Toss</name><text>As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon’s damage roll.</text><optional>1</optional></feat><feat><name>Fighting Style: Tactical Assessment</name><text>When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.</text><optional>1</optional></feat><feat><name>Fighting Style: Tunnel Fighter</name><text>You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional></feat><feat><name>Fighting Style: Two-Weapon Fighting</name><text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Hold the Line (Cavalier)</name><text>At 10th level, you become a master of locking down your enemies. Creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target’s speed is reduced to 0 until the end of the current turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 30</text><optional>1</optional></feat><feat><name>Additional Fighting Style (Champion)</name><text>At 10th level, you can choose a second option from the Fighting Style class feature.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Fighting Style: Archery</name><text>You gain a +2 bonus to attack rolls you make with ranged weapons.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>0</special></feat><feat><name>Flighting Style: Ambush</name><text>When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren’t incapacitated.</text><optional>1</optional></feat><feat><name>Fighting Style: Brace</name><text>When a creature you can see moves into the reach you have with the melee weapon you’re wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon’s damage roll.</text></feat><feat><name>Fighting Style: Bait And Switch</name><text>When you’re within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn’t incapacitated. This movement doesn’t provoke opportunity attacks.
+
+Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.</text><optional>1</optional></feat><feat><name>Fighting Style: Commanding Presence</name><text>When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.</text><optional>1</optional></feat><feat><name>Fighting Style: Close Quarters Shooter</name><text>You are trained in making ranged attacks at close quarters. When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. Finally, you have a +1 bonus to attack rolls on ranged attacks.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional><mod><type>5</type><value>1</value></mod></feat><feat><name>Fighting Style: Defense</name><text>While you are wearing armor, you gain a +1 bonus to AC.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>1</special></feat><feat><name>Fighting Style: Grappling Strike</name><text>Immediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player’s Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.</text><optional>1</optional></feat><feat><name>Fighting Style: Dueling</name><text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional><special>2</special></feat><feat><name>Fighting Style: Great Weapon Fighting</name><text>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Mariner</name><text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+	
+Source: Unearthed Arcana: Waterborne Adventures, p. 3</text><optional>1</optional></feat><feat><name>Fighting Style: Quick Toss</name><text>As a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon’s damage roll.</text><optional>1</optional></feat><feat><name>Fighting Style: Tactical Assessment</name><text>When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.</text><optional>1</optional></feat><feat><name>Fighting Style: Protection</name><text>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Fighting Style: Tunnel Fighter</name><text>You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+	
+Source: Unearthed Arcana: Light, Dark, Underdark!, p. 1</text><optional>1</optional></feat><feat><name>Fighting Style: Two-Weapon Fighting</name><text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+	
+Source: Player&#39;s Handbook, p. 72</text><optional>1</optional></feat><feat><name>Eldritch Strike (Eldritch Knight)</name><text>At 10th level, you learn how to make your weapon strikes undercut a creature’s resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Trick Shot (Gunslinger)</name><text>By 10th level, you’ve honed your aim to fire off targeted shots to disable an opponent. You can spend 1 grit point before making an attack roll to target a specific location on the target’s body. If the specified body part cannot be seen, or the target lacks the part in question, only normal damage is suffered with no additional effect.
+	 
+Trick Shot DC=8+your proficiency bonus+your desxterity modifier
+	 
+	Head: On a hit, the target takes normal damage and must make a Constitution saving throw or suffer disadvantage on attacks until the end of their next turn.
+	 
+	Arms: On a hit, the target takes normal damage and must make a Strength saving throw or drop 1 held item of your choice.
+	 
+	Torso: On a hit, the target takes normal damage and is pushed up to 10 feet directly away from you.
+	 
+	Legs/Wings: On a hit, the target takes normal damage and must make a Strength saving throw or get knocked prone.
+	 
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+	
+• The creature has disadvantage on attack rolls.
+	
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Hold the Line (Knight)</name><text>At 10th level, you master the ability to harass and slow your enemies. As a reaction when a creature moves at least 1 foot within 5 feet of you, you can make one melee weapon attack against that creature. If you hit, the attack’s weapon deals extra damage to the target equal to half your fighter level, and the target’s speed is reduced to 0 until the end of this turn.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 2</text><optional>1</optional></feat><feat><name>Improved Combat Superiority (Monster Hunter)</name><text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Guarded Mind (Psi Warrior)</name><text>The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.</text><optional>1</optional></feat><feat><name>Inspiring Surge (Purple Dragon Knight)</name><text>Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
+	Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional></feat><feat><name>Tireless Spirit (Samurai)</name><text>Starting at 10th level, when you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Improved Combat Superiority (Scout)</name><text>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Close-Quarters Shooting (Sharpshooter)</name><text>At 10th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn’t impose disadvantage on your roll. 
+	In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can’t take reactions until the end of this turn.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 4</text><optional>1</optional></feat><feat><name>Great Stature (Rune Knight)</name><text>The magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
+
+Moreover, the extra damage you deal with your Giant’s Might feature increases to 1d8.</text><optional>1</optional></feat><feat><name>Shadow Martyr (Echo Knight)</name><text>You can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the reaction is instead made against your echo.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.</text><optional>1</optional></feat></autolevel><autolevel><level>11</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,0,0,0,0,0,0,0,</slots></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (4th)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>13</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,2,0,0,0,0,0,0,</slots></autolevel><autolevel><level>14</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,2,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (5th)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>15</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,2,0,0,0,0,0,0,</slots><feat><name>Arcane Shot Option (5th)</name><text>You gain an additional Arcane Shot option.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Ever-Ready Shot (Arcane Archer)</name><text>Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Relentless (Battle Master)</name><text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
+	
+Source: Player&#39;s Handbook, p. 74</text><optional>1</optional></feat><feat><name>Additional Maneuvers (Battle Master)</name><text>You learn two additional Combat Superiority maneuvers.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Devastating Critical (Brute)</name><text>Starting at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon’s damage roll equal to your level in this class.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Ferocious Charger (Cavalier)</name><text>Starting at 15th level, you can run down your foes, whether you’re mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC * + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this feature only once on each of your turns.
+	 
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+	
+• The creature has disadvantage on attack rolls.
+	
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Superior Critical (Champion)</name><text>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Arcane Charge (Eldritch Knight)</name><text>At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Lightning Reload (Gunslinger)</name><text>Starting at 15th level, you can reload any firearm as a bonus action.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Piercing Shot (Gunslinger)</name><text>By 15th level, you’ve refined your deadly gunplay to allow certain shots to pierce through foes and continue on to damage others. You can spend 1 grit point before making an attack roll with a firearm that deals piercing damage. If the attack hits, you make an attack roll against every creature directly behind the target within your first range increment. Only the initial attack can misfire.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Rapid Strike (Knight)</name><text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 3</text><optional>1</optional></feat><feat><name>Relentless (Monster Hunter)</name><text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain one superiority die.
+	
+Source: Unearthed Arcana: Gothic Heroes, p. 2</text><optional>1</optional></feat><feat><name>Bulwark Of Force (Psi Warrior)</name><text>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you’re incapacitated.
+
+Once you take this bonus action, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.</text><optional>1</optional></feat><feat><name>Bulwark (Purple Dragon Knight)</name><text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren’t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 128</text><optional>1</optional></feat><feat><name>Rapid Strike (Samurai)</name><text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on the attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Relentless (Scout)</name><text>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
+	
+Source: Unearthed Arcana: Kits of Old, p. 4</text><optional>1</optional></feat><feat><name>Rapid Strike (Sharpshooter)</name><text>Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 4</text><optional>1</optional></feat><feat><name>Master Of Runes (Rune Knight)</name><text>You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.</text><optional>1</optional></feat><feat><name>Reclaim Potential (Echo Knight)</name><text>You’ve learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don’t already have temporary hit points.
+
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.</text><optional>1</optional></feat></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (7th)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>17</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,3,0,0,0,0,0,0,</slots></autolevel><autolevel><level>18</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,3,0,0,0,0,0,0,</slots><feat><name>Arcane Shot Option (6th)</name><text>You gain an additional Arcane Shot option.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 28</text><optional>1</optional></feat><feat><name>Survivor (Brute)</name><text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don’t gain this benefit if you have 0 hit points or if you have more than half of your hit points left.
+	
+Source: Unearthed Arcana: Three Subclasses, p. 2</text><optional>1</optional></feat><feat><name>Vigilant Defender (Cavalier)</name><text>Starting at 18th level, you respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature’s turn, except your turn. You can use this special reaction only to make opportunity attacks, and you can’t use it on the same turn that you take your normal reaction.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Survivor (Champion)</name><text>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
+	
+Source: Player&#39;s Handbook, p. 73</text><optional>1</optional></feat><feat><name>Improved War Magic (Eldritch Knight)</name><text>Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
+	
+Source: Player&#39;s Handbook, p. 75</text><optional>1</optional></feat><feat><name>Vicious Intent (Gunslinger)</name><text>At 18th level, your firearm attacks score a critical hit on a roll of 19-20.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Hemorrhaging Critical (Gunslinger)</name><text>Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.
+	
+Source: DM&#39;s Guild: Gunslinger Martial Archetype for Fighters, p. 2</text><optional>1</optional></feat><feat><name>Defender&#39;s Blade (Knight)</name><text>At 18th level, you respond to danger with extraordinary vigilance. You can use your reaction for an opportunity attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn. 
+	In addition, you gain a +1 bonus to AC while wearing heavy armor.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 3</text><optional>1</optional></feat><feat><name>Telekinetic Master (Psi Warrior)</name><text>Your ability to move creatures and objects with your mind is matched by few. You can cast the telekinesis spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
+
+Once you cast the spell with this feature, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.</text><optional>1</optional></feat><feat><name>Strength Before Death (Samurai)</name><text>Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn’t kill you outright, you can use your reaction to delay falling unconscious, and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three deaths aving throw failures can still kill you. Wshen the extra turn ends, you fall unconscious if you still have 0 hit points.
+	Once you use this feature, you can’t use it again until you finish a long rest.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 31</text><optional>1</optional></feat><feat><name>Snap Shot (Sharpshooter)</name><text>Starting at 18th level, you are ever ready to spring into action. If you take the Attack action on your first turn of a combat, you can make one additional ranged weapon attack as part of that action.
+	
+Source: Unearthed Arcana: Fighter Martial Archetypes, p. 4</text><optional>1</optional></feat><feat><name>Runic Juggernaut (Rune Knight)</name><text>You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant’s Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.</text><optional>1</optional></feat><feat><name>Legion Of One (Echo Knight)</name><text>You can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo’s position can be done from the other’s instead.
+
+In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.</text><optional>1</optional></feat></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,3,1,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (8th)</name><text>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 72</text></feat></autolevel><autolevel><level>20</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,3,3,1,0,0,0,0,0,</slots></autolevel><spellAbility>3</spellAbility></class><container><name>Explorer’s Pack</name><text>Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</text><value>10.0</value><item><name>Backpack</name><value>2.0</value><weight>5.0</weight></item><item><name>Bedroll</name><value>1.0</value><weight>7.0</weight></item><item><name>Mess kit</name><text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</text><value>0.2</value><weight>1.0</weight></item><item><name>Tinderbox</name><text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.</text><value>0.5</value><weight>1.0</weight></item><item><name>Torch</name><text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text><quantity>10</quantity><value>0.01</value><weight>1.0</weight></item><item><name>Rations (1 day)</name><text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text><quantity>10</quantity><value>0.5</value><weight>2.0</weight></item><item><name>Waterskin</name><value>0.2</value><weight>5.0</weight></item><item><name>Hempen rope (50 feet)</name><text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text><value>1.0</value><weight>10.0</weight></item></container>
+<item><name>Chain Mail</name><text>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+
+Source: Player&#39;s Handbook p. 145</text><type>3</type><slot>5</slot><value>75.0</value><weight>55.0</weight><ac>16</ac><strength>13</strength><stealth>1</stealth></item><item><name>Warhammer</name><text>Proficiency: martial, warhammer
+Source: Player&#39;s Handbook p. 149</text><type>5</type><slot>2</slot><value>15.0</value><weight>2.0</weight><damage1H>1d8</damage1H><damage2H>1d10</damage2H><damageType>1</damageType><weaponProperty>1536</weaponProperty><mod><type>1</type></mod></item><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent></character>
+</pc>
