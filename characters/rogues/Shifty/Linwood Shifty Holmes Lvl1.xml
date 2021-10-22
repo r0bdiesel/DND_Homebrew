@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5"><character><version>37</version><uid>8815</uid><name>Linwood Shifty Holmes Lvl1</name><abilities>10,14,14,10,10,14,</abilities><hpMax>10</hpMax><hpCurrent>10</hpCurrent><unarmed>1</unarmed><race><name>Mark of Passage Human</name><speed>40</speed><feat><name>Ability Score Increase</name><text>One ability score of your choice increases by 1.
+ 
+Source: Wayfinder&#39;s Guide to Eberron, Chapter 4</text><mod><name>Ability Score Dex+1</name><category>1</category><type>1</type><value>1</value></mod></feat><feat><name>Courier&#39;s Speed</name><text>Your base walking speed increases to 40 ft.
+ 
+Source: Wayfinder&#39;s Guide to Eberron, Chapter 4</text><expanded>0</expanded></feat><feat><name>Intuitive Motion</name><text>When you make a Strength (Athletics) check or any ability check to operate or maintain a land vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+ 
+Source: Wayfinder&#39;s Guide to Eberron, Chapter 4</text><expanded>0</expanded></feat><feat><name>Orien&#39;s Grace</name><text>When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
+ 
+Source: Wayfinder&#39;s Guide to Eberron, Chapter 4</text><expanded>0</expanded></feat><feat><name>Shared Passage</name><text>As a bonus action you can teleport a distance up to your walking speed, ending in an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you use this trait. Once you use this trait, you can’t use it again until you finish a long rest.
+ 
+Source: Wayfinder&#39;s Guide to Eberron, Chapter 4</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and Primordial(aquan,etc). Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+ 
+Source: Player&#39;s Handbok p. 31</text><expanded>0</expanded></feat><mod><category>1</category><type>1</type><value>2</value></mod><spellAbility>6</spellAbility></race><background><name>Sailor</name><proficiency>103</proficiency><proficiency>111</proficiency><feat><name>Description</name><text>You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizan, but the time has come to try your hand at something new. 
+	Discuss the nature of the ship you previously sailed with your Dungeon Master. Was it a merchant ship, a naval vessel, a ship of discovery, or a pirate ship? How famous (or infamous) is it? Is it widely traveled? Is it stiII sailing, or is it missing and presumed lost with all hands? 
+	What were your duties on board — boatswain, captain, navigator, cook, or some other position? Who were the captain and first mate? Did you leave your ship on good terms with your fellows, or on the run?</text><expanded>0</expanded></feat><feat><name>Starting Proficiencies</name><text>Your background grants you the following proficiencies.
+ 
+Skills: Athletics, Perception
+ 
+Languages: none
+ 
+Tools: navigator&#39;s tools, water vehicles</text><expanded>0</expanded><proficiency>103</proficiency><proficiency>111</proficiency></feat><feat><name>Ship&#39;s Passage</name><text>When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you&#39;re calling in a favor, you can&#39;t be certain of a schedule or route that will meet your every need. Your Dungeon Master will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.
+ 
+Source: Player&#39;s Handbook, p. 139</text><expanded>0</expanded></feat><feat><name>Equipment</name><text>A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes, and a belt pouch containing 10 gp</text><expanded>0</expanded></feat><feat><name>Personality Trait</name><text>Choose or randomly determine
+To me, a tavern brawl is a nice way to get to know a new city. </text><expanded>0</expanded></feat><feat><name>Ideal</name><text>People: I&#39;m committed to my crewmates, not to ideals. (Neutral). </text><expanded>0</expanded></feat><feat><name>Bond</name><text>I&#39;ll always remember my first ship.</text><expanded>0</expanded></feat><feat><name>Flaw</name><text>Once I start drinking, it&#39;s hard for me to stop. 
+ 
+5. I can&#39;t help but pocket loose coins and other trinkets I come across.</text><expanded>0</expanded></feat></background><class><name>Rogue</name><hd>2</hd><wealth>4d4x10</wealth><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><proficiency>1</proficiency><proficiency>3</proficiency><numClassSkills>4</numClassSkills><armor>light armor</armor><weapons>simple weapons, hand crossbows, longswords, rapiers, shortswords</weapons><tools>thieves&#39; tools</tools><feat><name>Starting Rogue</name><text>As a 1st-level Rogue, you begin play with 8+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: light armor
+• Weapons: simple weapons, hand crossbows, longswords, rapiers, shortswords
+• Tools: thieves&#39; tools
+• Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance. Persuasion, Sleight of Hand, and Stealth
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) a rapier or (b) a shortsword
+• (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+• (a) a burglar&#39;s pack, (b) a dungeoneer&#39;s pack, or (c) an explorer&#39;s pack
+• Leather armor, two daggers, and thieves&#39; tools 
+ 
+Alternatively, you may start with 4d4x10 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 94</text><optional>1</optional><expanded>0</expanded><proficiency>104</proficiency><proficiency>107</proficiency><proficiency>115</proficiency><proficiency>116</proficiency></feat><feat><name>Expertise</name><text>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+	At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+	
+Source: Player&#39;s Handbook, p. 96</text><expanded>0</expanded><mod><name>Expertise Stealth</name><category>4</category><type>16</type></mod><mod><name>Expertise Athletics</name><category>4</category><type>3</type></mod></feat><feat><name>Sneak Attack</name><text>Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+	You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
+	The amount of the extra damage increases by 1d6 every odd level you gain in this class, to a maximum of 10d6 at 19th level.
+	
+Source: Player&#39;s Handbook, p. 96</text><expanded>0</expanded></feat><feat><name>Thieves&#39; Cant</name><text>During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+	In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+	
+Source: Player&#39;s Handbook, p. 96</text><expanded>0</expanded></feat><autolevel><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Rogue</name><text>As a 1st-level Rogue, you begin play with 8+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: light armor
+• Weapons: simple weapons, hand crossbows, longswords, rapiers, shortswords
+• Tools: thieves&#39; tools
+• Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance. Persuasion, Sleight of Hand, and Stealth
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) a rapier or (b) a shortsword
+• (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+• (a) a burglar&#39;s pack, (b) a dungeoneer&#39;s pack, or (c) an explorer&#39;s pack
+• Leather armor, two daggers, and thieves&#39; tools 
+ 
+Alternatively, you may start with 4d4x10 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 94</text><optional>1</optional></feat><feat><name>Multiclass Rogue</name><text>To multiclass as a Rogue, you must meet the following prerequisites:
+• Dexterity 13
+ 
+You gain the following proficiencies:
+• light armor, thieves&#39; tools; choose one skill from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance. Persuasion, Sleight of Hand, and Stealth
+ 
+Source: Player&#39;s Handbook, p. 163</text><optional>1</optional></feat><feat><name>Expertise</name><text>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+	At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat><feat><name>Sneak Attack</name><text>Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+	You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
+	The amount of the extra damage increases by 1d6 every odd level you gain in this class, to a maximum of 10d6 at 19th level.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat><feat><name>Thieves&#39; Cant</name><text>During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+	In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>2</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Cunning Action</name><text>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>3</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,2,0,0,0,0,0,0,0,0,</slots><feat><name>Steady Aim: Optional Feature</name><text>As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.</text><optional>1</optional></feat><feat><name>Roguish Archetype</name><text>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat><feat><name>Roguish Archetype: Arcane Trickster</name><text>Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Spellcasting (Arcane Trickster)</name><text>When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list. 
+	 
+Cantrips: You learn three cantrips: mage hand and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level. 
+	 
+Spell Slots: The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+	For example. if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot. 
+	 
+Spells Known of 1st-Level and Higher: You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list. 
+	You learn one additional spell at 4th, 7th, 8th, 10th, 11th, 13th, 14th, 16th, 19th, and 20th level. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this c1ass. you can learn one new spell of 1st or 2nd level. 
+	The spells you learn at 8th. 14th, and 20th level can come from any school of magic. 
+	Whenever you gain a level in this c1ass, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you’re replacing the spell you gained at 8th, 14th, or 20th level. 
+	 
+Spellcasting Ability: Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. 
+	 
+Spell save DC = 8+your proficiency bonus+your Intelligence modifier 
+	Spell attack modifier = your proficiency bonus+your Intelligence modifier
+	
+Source: Player&#39;s Handbook, p. 98</text><optional>1</optional></feat><feat><name>Mage Hand Legerdemain (Arcane Trickster)</name><text>Starting at 3rd level, when you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it.
+	 
+• You can stow one object the hand is holding in a container worn or carried by another creature.
+	 
+• You can retrieve an object in a container worn or carried by another creature.
+	 
+• You can use thieves’ tools to pick locks and disarm traps at range.
+	 
+	You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature’s Wisdom (Perception) check.
+	In addition, you can use the bonus action granted by your Cunning Action to control the hand.
+	
+Source: Player&#39;s Handbook, p. 98</text><optional>1</optional></feat><feat><name>Roguish Archetype: Assassin</name><text>You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Assassin)</name><text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner’s kit.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Assassinate (Assassin)</name><text>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Roguish Archetype: Inquisitive</name><text>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 45</text><optional>1</optional></feat><feat><name>Ear for Deceit (Inquisitive)</name><text>When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (Insight) check to sense if a creature is lying, treat a roll of 7 or lower on the d20 as an 8.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 45</text><optional>1</optional></feat><feat><name>Eye for Detail (Inquisitive)</name><text>Starting at 3rd level, you can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover and decipher clues.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Insightful Fighting (Inquisitive)</name><text>At 3rd level, you gain the ability to decipher an opponent’s tactics and develop a counter to them. As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn’t incapacitated, contested by the target’s Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that creature even if you don’t have advantage on the attack roll, but not if you have disadvantage on it.
+	This benefit lasts for 1 minute or until you successfully use this feature against a different target.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Roguish Archetype: Mastermind</name><text>Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Master of Intrigue (Mastermind)</name><text>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit, the forgery kit, and one gaming set of your choice. You also learn two languages of your choice. 
+	Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, allowing you to pass yourself off as a native speaker of a particular land, provided that you know the language.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Master of Tactics (Mastermind)</name><text>Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Roguish Archetype: Scout</name><text>You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Amubusher, spy, bounty hunter—these are just a few of the roles thats Scouts assume as they range the world.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Skirmisher (Scout)</name><text>Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Survivalist (Scout)</name><text>When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don’t already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional><proficiency>110</proficiency><proficiency>117</proficiency><mod></mod><mod></mod></feat><feat><name>Roguish Archetype: Swashbuckler</name><text>You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are brutes clad in heavy armor, your method of fighting looks more like performance. Duelists and pirates typically belong to this archetype.
+	A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Fancy Footwork (Swashbuckler)</name><text>When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Rakish Audacity (Swashbuckler)</name><text>Starting at 3rd level, your unmistakable confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.
+	You also gain an additional way to use your Sneak Attack: you don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don’t have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 136
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Roguish Archetype: Thief</name><text>You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Fast Hands (Thief)</name><text>Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Second-Story Work (Thief)</name><text>When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
+	In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Roguish Archetype: Phantom</name><text>Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves’ guilds value them as highly effective information gatherers and spies.
+
+Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard’s confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.
+
+How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves’ guild dedicated to a deity of death?</text><optional>1</optional></feat><feat><name>Whispers Of The Dead (Phantom)</name><text>Echoes of those who have died cling to you. Whenever you finish a short or long rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this feature to choose a different proficiency that you lack.</text><optional>1</optional></feat><feat><name>Wails From The Grave (Phantom)</name><text>As you nudge someone closer to the grave, you can channel the power of death to harm someone else as well. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll’s total, as wails of the dead sound around them for a moment.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</text><optional>1</optional></feat><feat><name>Roguish Archetype: Soul Knife</name><text>Most assassins strike with physical weapons, and many burglars and spies use thieves’ tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves’ guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
+
+Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.
+
+As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.</text><optional>1</optional></feat><feat><name>Psionic Powers (Soul Knife)</name><text>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+
+Some of your powers expend the Psionic Energy die they use, as specified in a power’s description, and you can’t use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can’t do so again until you finish a short or long rest.
+
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+
+The powers below use your Psionic Energy dice.
+
+Psi-Bolstered Knack. When your nonpsionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. You expend the die only if the roll succeeds.
+
+Psychic Whispers. You can establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other.
+
+The first time you use this power after each long rest, you don’t expend the Psionic Energy die. All other times you use the power, you expend the die.</text><optional>1</optional></feat><feat><name>Psychic Blades (Soul Knife)</name><text>You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to 1d6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.</text><optional>1</optional></feat></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>5</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,3,0,0,0,0,0,0,0,0,</slots><feat><name>Uncanny Dodge</name><text>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>6</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,3,0,0,0,0,0,0,0,0,</slots></autolevel><autolevel><level>7</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,2,0,0,0,0,0,0,0,</slots><feat><name>Evasion</name><text>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,2,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (2nd)</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>9</level><spellSlotsOptional>1</spellSlotsOptional><slots>3,4,2,0,0,0,0,0,0,0,</slots><feat><name>Magical Ambush (Arcane Trickster)</name><text>Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+	
+Source: Player&#39;s Handbook, p. 98</text><optional>1</optional></feat><feat><name>Infiltration Expertise (Assassin)</name><text>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can’t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.
+	Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Steady Eye (Inquisitive)</name><text>Starting at 9th level, you have advantage on any Wisdom (Perception) or Intelligence (Investigation) check if you move no more than half your speed on the same turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Insightful Manipulator (Mastermind)</name><text>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice: 
+	 
+• Intelligence score 
+• Wisdom score 
+• Charisma score 
+• Class levels (if any) 
+	 
+	At the DM’s option, you might also realize you know a piece of the creature’s history or one of its personality traits, if it has any.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Superior Mobility (Scout)</name><text>At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional><mod><type>13</type><value>10</value></mod></feat><feat><name>Panache (Swashbuckler)</name><text>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (Persuasion) check contested by a creature’s Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
+	If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can’t make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
+	If you succeed on the check and the creature isn’t hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly aquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+	 
+Charmed:
+• A charmed creature can&#39;t attack the charmer or target the charmer with harmful abilities or magical effects.
+	
+• The charmer has advantage on any ability check to interact socially with the creature.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 136
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Supreme Sneak (Thief)</name><text>Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Tokens Of The Departed (Phantom)</name><text>When a life ends in your presence, you’re able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket’s form or has you roll on the Trinkets table in the Player’s Handbook to generate it.
+
+You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can’t create one while at your maximum.
+
+You can use soul trinkets in the following ways:
+
+While a soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, for your vitality is enhanced by the life essence within the object.
+When you deal Sneak Attack damage on your turn, you can destroy one of your soul trinkets that’s on your person and then immediately use Wails from the Grave, without expending a use of that feature.
+As an action, you can destroy one of your soul trinkets, no matter where it’s located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It’s under no obligation to be truthful, and it answers as concisely as possible, eager to be free. The spirit knows only what it knew in life, as determined by the DM.</text><optional>1</optional></feat><feat><name>Soul Blades (Soul Knife)</name><text>Your Psychic Blades are now an expression of your psi-suffused soul, giving you these powers that use your Psionic Energy dice:
+
+Homing Strikes. If you make an attack roll with your Psychic Blades and miss the target, you can roll one Psionic Energy die and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.
+
+Psychic Teleportation. As a bonus action, you manifest one of your Psychic Blades, expend one Psionic Energy die and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
+
+</text><optional>1</optional></feat></autolevel><autolevel><level>10</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (3rd)</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>11</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,0,0,0,0,0,0,0,</slots><feat><name>Reliable Talent</name><text>By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (4th)</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>13</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,2,0,0,0,0,0,0,</slots><feat><name>Versatile Trickster (Arcane Trickster)</name><text>At 13th level, you gain the ability to distract targets with your mage hand. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+	
+Source: Player&#39;s Handbook, p. 98</text><optional>1</optional></feat><feat><name>Imposter (Assassin)</name><text>At 13th level, you gain the ability to unerringly mimic another person’s speech, writing, and behavior. You must spend at least three hours studying these three components of the person’s behavior, listening to speech, examining handwriting, and observing mannerisms.
+	Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Unerring Eye (Inquisitive)</name><text>Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren’t blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.
+	You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Misdirection (Mastermind)</name><text>Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Ambush Master (Scout)</name><text>Starting at 13th level, you excel at leading ambushes and acting first in a fight.
+	You have advantage on initiative rolls. In addition, the first creature you hit during the first round of combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Elegant Maneuver (Swashbuckler)</name><text>Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 136
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Use Magic Device (Thief)</name><text>By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Ghost Walk (Phantom)</name><text>You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.
+
+You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.</text><optional>1</optional></feat><feat><name>Psychic Veil (Soul Knife)</name><text>You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+
+Once you use this feature, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again.
+
+</text><optional>1</optional></feat></autolevel><autolevel><level>14</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,2,0,0,0,0,0,0,</slots><feat><name>Blindsense</name><text>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>15</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,2,0,0,0,0,0,0,</slots><feat><name>Slippery Mind</name><text>By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+	
+Source: Player&#39;s Handbook, p. 96</text><proficiency>4</proficiency></feat></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (5th)</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>17</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,3,0,0,0,0,0,0,</slots><feat><name>Spell Thief (Arcane Trickster)</name><text>At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
+	Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell’s effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn’t need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can’t cast that spell until the 8 hours have passed.
+	Once you use this feature, you can’t use it again until you finish a long rest.
+	
+Source: Player&#39;s Handbook, p. 98</text><optional>1</optional></feat><feat><name>Death Strike (Assassin)</name><text>Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Eye for Weakness (Inquisitive)</name><text>At 17th level, you learn to exploit a creature’s weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Soul of Deceit (Mastermind)</name><text>Starting at 17th level, your thoughts can’t be read by telepathy or other means, unless you allow it. You can present false thoughts by making a Charisma (Deception) check contested by the mind reader’s Wisdom (Insight) check.
+	Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful, if you so choose, and you can’t be compelled to tell the truth by magic.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 135
+		Xanathar&#39;s Guide to Everything, p. 46</text><optional>1</optional></feat><feat><name>Sudden Strike (Scout)</name><text>Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can’t use your Sneak Attack against the same target more than once in a turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Master Duelist (Swashbuckler)</name><text>Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can’t use this feature again until you finish a short or long rest.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 136
+		Xanathar&#39;s Guide to Everything, p. 47</text><optional>1</optional></feat><feat><name>Thief&#39;s Reflexes (Thief)</name><text>When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
+	
+Source: Player&#39;s Handbook, p. 97</text><optional>1</optional></feat><feat><name>Deaths Friend (Phantom)</name><text>Your association with death has become so close that you gain the following benefits:
+
+When you use your Wails from the Grave, you can deal the necrotic damage to both the first and the second creature.
+At the end of a long rest, a soul trinket appears in your hand if you don’t have any soul trinkets, as the spirits of the dead are drawn to you.</text><optional>1</optional></feat><feat><name>Rend Mind (Soul Knife)</name><text>You can sweep your Psychic Blades directly through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Once you use this feature, you can’t do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again.</text><optional>1</optional></feat></autolevel><autolevel><level>18</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,3,0,0,0,0,0,0,</slots><feat><name>Elusive</name><text>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,3,1,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (6th)</name><text>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 96</text></feat></autolevel><autolevel><level>20</level><spellSlotsOptional>1</spellSlotsOptional><slots>4,4,3,3,1,0,0,0,0,0,</slots><feat><name>Stroke of Luck</name><text>At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+	Once you use this feature, you can’t use it again until you finish a short or long rest.
+	
+Source: Player&#39;s Handbook, p. 97</text></feat></autolevel><spellAbility>3</spellAbility></class><container><name>Burglar’s Pack</name><text>Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</text><value>16.0</value><item><name>Backpack</name><value>2.0</value><weight>5.0</weight></item><item><name>Ball bearings</name><text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the saving throw.</text><quantity>1000</quantity><value>1.0</value><weight>0.002</weight></item><item><name>String (10 feet)</name><value>1.0</value></item><item><name>Bell</name><value>1.0</value></item><item><name>Candle</name><text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text><quantity>5</quantity><value>0.01</value></item><item><name>Crowbar</name><text>Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.</text><value>2.0</value><weight>5.0</weight></item><item><name>Hammer</name><value>2.0</value><weight>3.0</weight></item><item><name>Piton</name><quantity>10</quantity><value>0.05</value><weight>0.25</weight></item><item><name>Hooded Lantern</name><text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</text><value>5.0</value><weight>2.0</weight></item><item><name>Oil (flask)</name><text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</text><quantity>2</quantity><value>0.1</value><weight>1.0</weight></item><item><name>Rations (1 day)</name><text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text><quantity>5</quantity><value>0.5</value><weight>2.0</weight></item><item><name>Tinderbox</name><text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.</text><value>0.5</value><weight>1.0</weight></item><item><name>Waterskin</name><value>0.2</value><weight>5.0</weight></item><item><name>Hempen rope (50 feet)</name><text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text><value>1.0</value><weight>10.0</weight></item></container>
+<item><name>Studded Leather Armor</name><text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+Source: Player&#39;s Handbook p. 144</text><type>1</type><slot>5</slot><value>45.0</value><weight>13.0</weight><ac>12</ac></item><item><name>Rapier</name><text>Proficiency: martial, rapier
+Source: Player&#39;s Handbook p. 149</text><type>5</type><slot>2</slot><value>25.0</value><weight>2.0</weight><damage1H>1d8</damage1H><damageType>2</damageType><weaponProperty>1026</weaponProperty><mod><type>1</type></mod></item><item><name>Dagger</name><text>Proficiency: simple, dagger
+Source: Player&#39;s Handbook p. 149</text><type>5</type><quantity>2</quantity><value>2.0</value><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><mod><type>1</type></mod></item><item><name>Gold (gp)</name><type>15</type><quantity>50</quantity><value>1.0</value><weight>0.02</weight></item><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><money>50.0</money></character>
+</pc>
