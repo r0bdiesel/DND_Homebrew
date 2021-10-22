@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5"><character><version>37</version><uid>8825</uid><name>Iron Man (Tony Stark) Lvl1</name><abilities>10,11,15,15,10,10,</abilities><hpMax>11</hpMax><hpCurrent>11</hpCurrent><unarmed>1</unarmed><race><name>Human Variant</name><age>30</age><height>5ft 7</height><weight>160</weight><eyes>Brown</eyes><skin>Caucasian</skin><hair>Black</hair><feat><name>Ability Score Increase</name><text>Two different ability scores of your choice increase by 1.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Skills</name><text>You gain proficiency in one skill of your choice.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Feat</name><text>You gain one feat of your choice.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><mod><category>1</category><type>2</type><value>1</value></mod><mod><category>1</category><type>3</type><value>1</value></mod><spellAbility>6</spellAbility></race><background><name>Noble</name><proficiency>105</proficiency><proficiency>113</proficiency><feat><name>Description</name><text>You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
+	Work with your DM to come up with an appropriate title and determine how much authority that title carries. A noble title doesn&#39;t stand on its own — it&#39;s connected to an entire family, and whatever title you hold, you will pass it down to your own children. Not only do you need to determine your noble title, but you should also work with the DM to describe your family and their influence on you. 
+	Is your family old and established, or was your title only recently bestowed? How much influence do they wield, and over what area? What kind of reputation does your family have among the other aristocrats of the region? How do the common people regard them? What&#39;s your position in the family? Are you the heir to the head of the family? Have you already inherited the title? How do you feel about that responsibility? Or are you so far down the line of inheritance that no one cares what you do, as long as you don&#39;t embarrass the family? How does the head of your family feel about your adventuring career? Are you in your family&#39;s good graces, or shunned by the rest of your family?
+	Does your family have a coat of arms? An insignia you might wear on a signet ring? Particular colors you wear all the time? An animal you regard as a symbol of your line or even a spiritual member of the family? 
+	These details help establish your family and your title as features of the world of the campaign.</text><expanded>0</expanded></feat><feat><name>Variant Feature: Retainers</name><text>You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.</text><expanded>0</expanded></feat><feat><name>Starting Proficiencies</name><text>Your background grants you the following proficiencies.
+ 
+Skills: History, Persuasion
+ 
+Languages: any one of your choice
+ 
+Tools: one type of gaming set</text><expanded>0</expanded></feat><feat><name>Position of Privilege</name><text>Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+ 
+Source: Player&#39;s Handbook, p. 135</text><expanded>0</expanded></feat><feat><name>Equipment</name><text>A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp</text><expanded>0</expanded></feat><feat><name>Personality Trait</name><text>Choose or randomly determine
+
+ 
+1. My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. 
+ 
+2. The common folk love me for my kindness and generosity. 
+ 
+3. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. 
+ 
+4. I take great pains to always look my best and follow the latest fashions. 
+ 
+5. I don&#39;t like to get my hands dirty, and I won&#39;t be caught dead in unsuitable accommodations. 
+ 
+6. Despite my noble birth, I do not place myself above other folk. We all have the same blood. 
+ 
+7. My favor, once lost, is lost forever. 
+ 
+8. If you do me an injury, I will crush you, ruin your name, and salt your fields.</text><expanded>0</expanded></feat><feat><name>Ideal</name><text>Choose or randomly determine
+
+ 
+1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good). 
+ 
+2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful). 
+ 
+3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic). 
+ 
+4. Power: If I can attain more power, no one will tell me what to do. (Evil). 
+ 
+5. Family: Blood runs thicker than water. (Any). 
+ 
+6. Noble Obligation: It is my duty to protect and care for the people beneath me. (Good).</text><expanded>0</expanded></feat><feat><name>Bond</name><text>Choose or randomly determine
+
+ 
+1. I will face any challenge to win the approval of my family. 
+ 
+2. My house&#39;s alliance with another noble family must be sustained at all costs. 
+ 
+3. Nothing is more important than the other members of my family. 
+ 
+4. I am in love with the heir of a family that my family despises. 
+ 
+5. My loyalty to my sovereign is unwavering. 
+ 
+6. The common folk must see me as a hero of the people.</text><expanded>0</expanded></feat><feat><name>Flaw</name><text>Choose or randomly determine
+
+ 
+1. I secretly believe that everyone is beneath me. 
+ 
+2. I hide a truly scandalous secret that could ruin my family forever. 
+ 
+3. I too often hear veiled insults and threats in every word addressed to me, and I&#39;m quick to anger. 
+ 
+4. I have an insatiable desire for carnal pleasures. 
+ 
+5. In fact, the world does revolve around me. 
+ 
+6. By my words and actions, I often bring shame to my family.</text><expanded>0</expanded></feat></background><class><name>Artificer (E)</name><hd>2</hd><slots>2,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>2,2,0,0,0,0,0,0,0,0,</slotsCurrent><proficiency>2</proficiency><proficiency>3</proficiency><proficiency>108</proficiency><proficiency>111</proficiency><numClassSkills>2</numClassSkills><armor>Light armor, medium armor, shields</armor><weapons> Simple weapons, hand crossbows, heavy crossbows</weapons><tools>Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice</tools><feat><name>Starting Artificer</name><text>Hit Dice: 1d8 per artificer level
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per artificer level after 1st
+
+Proficiencies
+Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, hand crossbows, heavy crossbows
+Tools: Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice
+Saving Throws: Constitution, Intelligence
+Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+
+Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+• any two simple weapons
+• a light crossbow and 20 bolts
+• (a) studded leather armor or (b) scale mail
+• thieves’ tools and a dungeoneer’s pack</text><optional>1</optional><expanded>0</expanded></feat><feat><name>Magical Tinkering</name><text>At 1st level, you learn how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must tinker’s tools, or other artisan’s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+
+• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+• A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+
+You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</text><expanded>0</expanded></feat><feat><name>Spellcasting</name><text>You have studied the workings of magic, how to channel it through objects, and how to awaken it within them. As a result, you have gained a limited ability to cast spells. To observers, you don’t appear to be casting spells in a conventional way; you look as if you’re producing wonders through various items.
+
+Tools Required
+
+You produce your artificer spell effects through your tools. You must have a spellcasting focus – specifically tinker’ tools or some kind of artisan’s tool – in hand when you cast any spell with this Spellcasting feature. You must be proficient with the tool to use it in this way.
+
+After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
+
+Cantrips (0-Level Spells)
+
+At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+
+When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
+
+Preparing and Casting Spells
+
+The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent in tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
+
+Spellcasting Ability
+
+Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+Ritual Casting
+
+You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text><expanded>0</expanded></feat><autolevel><slots>2,2,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Artificer</name><text>Hit Dice: 1d8 per artificer level
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per artificer level after 1st
+
+Proficiencies
+Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, hand crossbows, heavy crossbows
+Tools: Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice
+Saving Throws: Constitution, Intelligence
+Skills: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+
+Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+• any two simple weapons
+• a light crossbow and 20 bolts
+• (a) studded leather armor or (b) scale mail
+• thieves’ tools and a dungeoneer’s pack</text><optional>1</optional></feat><feat><name>Multiclass Artificer</name><text>Ability Score Minimum. As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer.
+
+Proficiencies Gained. If artificer isn’t your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, thieves’ tools, tinker’s tools.
+
+Spell Slots. Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.</text><optional>1</optional></feat><feat><name>Optional: Firearm Proficiency</name><text>Optional Rule: Firearm Proficieny
+
+If your Dungeon Master uses the rules on firearms in chapter 9 of the Dungeon Master&#39;s Guide and your artificer has been exposed to the operations of such weapons, your artificer is proficient with them.</text><optional>1</optional></feat><feat><name>Magical Tinkering</name><text>At 1st level, you learn how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must tinker’s tools, or other artisan’s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+
+• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+• A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+
+You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</text></feat><feat><name>Spellcasting</name><text>You have studied the workings of magic, how to channel it through objects, and how to awaken it within them. As a result, you have gained a limited ability to cast spells. To observers, you don’t appear to be casting spells in a conventional way; you look as if you’re producing wonders through various items.
+
+Tools Required
+
+You produce your artificer spell effects through your tools. You must have a spellcasting focus – specifically tinker’ tools or some kind of artisan’s tool – in hand when you cast any spell with this Spellcasting feature. You must be proficient with the tool to use it in this way.
+
+After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
+
+Cantrips (0-Level Spells)
+
+At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+
+When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
+
+Preparing and Casting Spells
+
+The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent in tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
+
+Spellcasting Ability
+
+Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+Ritual Casting
+
+You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text></feat></autolevel><autolevel><level>2</level><slots>2,2,0,0,0,0,0,0,0,0,</slots><feat><name>Infuse Item</name><text>At 2nd level, you gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.
+
+Infusions Known
+
+When you gain this feature, pick four artificer infusions to learn. You learn additional infusions of your choice when you reach certain levels in this class, 6 total at level 6, 8 total at level 10, 10 total at level 14, and 12 total at level 18.
+
+Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
+
+Infusing an Item
+
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion’s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item, or you can forgo attunement so that someone else can attune to the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
+
+Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.
+
+You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects equals half of your current known infusions. 2, 3, 4, 5, 6. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
+
+</text></feat></autolevel><autolevel><level>3</level><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Right Tool For the Job</name><text>At 3rd level, you learn how to produce exactly the tool you need: with tinker&#39;s tools in hand, you can magically create one set of artisan&#39;s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</text></feat><feat><name>Artificer Specialist</name><text>At 3rd level, you choose the type of specialist you are:
+• Alchemist
+• Armorer (UA)
+• Artillerist
+• Battle Smith
+Your choice grants you features at 5rd level and again at 9th and 15th level. </text></feat><feat><name>Artificer Speciality: Alchemist</name><text>An Alchemist is an expert at combining reagents to pro­ duce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of ar­ tificer traditions, and its versatility has long been valued during times of war and peace.</text><optional>1</optional></feat><feat><name>Tool Proficiency (Alchemist)</name><text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist&#39;s supplies. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text><optional>1</optional></feat><feat><name>Expanded Spell List: (Alchemist)</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
+
+Alchemist Spells
+Artificer Level	Alchemist Spells
+3rd	 Healing Word, Ray of Sickness
+5th	 Flaming Sphere, Melf&#39;s Acid Arrow
+9th	 Gaseous Form, Mass Healing Word
+13th Blight, Death Ward
+17th Cloudkill, Raise Dead
+</text><optional>1</optional></feat><feat><name>Experimental Elixir (Alchemist)</name><text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.
+
+Creating an experimental elixir requires you to have alchemist supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
+
+When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask.
+
+You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table.
+
+Experimental Elixir
+d6	Effect
+1	Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence Modifier
+
+2	Swiftness. The drinker&#39;s walking speed increases by 10 feet for 1 hour.
+
+3	Resilience. The drinker gains a +1 bonus to AC for 10 minutes.
+
+4	Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.
+
+5	Flight. The drinker gains a flying speed of 10 feet for 10 minutes.
+
+6	Transformation. The drinker&#39;s body is transformed as if by the Alter Self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.
+</text><optional>1</optional></feat><feat><name>Artificer Specialist: Artillerist</name><text>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destruc­ tive power was valued by all the armies of the Last War. Now that the war is over, some members of this spe­ cialization have sought to build a more peaceful world by using their powers to fight the resurgence ofstrife in Khorvaire. The gnome artificerVi, an unlikelyyet key member of House Cannith&#39;s warforged project, has been especially vocal about making things right: "It&#39;s about time we fixed things instead of blowing them all to hell."</text><optional>1</optional></feat><feat><name>Tool Proficiency (Artillerist)</name><text>When you adopt this specialization at 3rd level, you gain proficiency with woodcarver&#39;s tools. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice</text><optional>1</optional></feat><feat><name>Expended Spell List (Artillerist)</name><text>Starting at 3rd level, you always have certain spells pre­ pared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+
+Spell
+3rd shield, thunderwave
+5th scorching ray, shatter
+9th fireball, wind wall
+13th ice storm, wall offire
+17th cone ofcold, wall of force </text><optional>1</optional></feat><feat><name>Eldritch Cannon (Artillerist)</name><text>At 3rd level, you learn how to create a magical cannon. Using woodcarver&#39;s tools or smith&#39;s tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
+
+Once you create a cannon, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can&#39;t create one while your cannon is present.
+
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. 
+If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+O). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.
+
+When you create the cannon, you determine its ap­ pearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Can­ nons table. On each of your turns, you can take a bonus action to cause the cannon to activate ifyou are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+
+Activation
+Flamethrower - The cannon exhales fire in an adjacent 15- foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren&#39;t being worn or carried.
+
+Force Ballista - Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet ofit. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
+
+Protector - The cannon emits a burst of positive en­ ergy that grants itselfand each creature of yourchoicewithin 10feetofitanumberof temporary hit points equal to ld8 + your Intelligence modifier (minimum of+l).</text><optional>1</optional></feat><feat><name>Artificer Specialist: Battle Smith</name><text>Armies require protection, and someone has to put things back together if defenses fail . A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and per­ sonnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective compan­ ion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender. Battle Smiths played a key role in House Cannith&#39;s work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war&#39;s horrific battles.</text><optional>1</optional></feat><feat><name>Tool Proficiency (Battle Smith)</name><text>When you adopt this specialization at 3rd level, you gain proficiency with smith&#39;s tools. Ifyou already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.</text><optional>1</optional></feat><feat><name>Battle Smith Expanded Spell Slots (Battle Smith)</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+
+
+Spell
+3rd heroism, shield
+5th branding smite, warding bond 
+9th aura ofvitality, conjure barrage 
+13th aura ofpurity.fire shield
+17th banishing smite, mass cure wounds</text><optional>1</optional></feat><feat><name>Battle Ready (Battle Smith)</name><text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
+You gain proficiency with martial weapons.
+When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dex­ terity modifier, for the attack and damage rolls.</text><optional>1</optional></feat><feat><name>Steel Defender (Battle Smith)</name><text>By 3rd level, your tinkering has borne you a faithful companion, a steel defender. It is friendly to you and your companions, and it obeys your commands. See this creature&#39;s game statistics in the steel defender stat block. You determine the creature&#39;s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+
+In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disen­ gage, Help, Hide, or Search action.
+
+If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith&#39;s tools as an action to revive it, providedyou are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+
+At the end of a long rest, you can create a new steel defender if you have your smith&#39;s tools with you. If you already have a steel defender from this feature, the first one immediately perishes.</text><optional>1</optional></feat><feat><name>Artificer Speciality: Armorer</name><text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer’s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</text><optional>1</optional></feat><feat><name>Tools Of The Trade (Armorer)</name><text>You gain proficiency with heavy armor. You also gain proficiency with smith’s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.</text><optional>1</optional></feat><feat><name>Expanded Spell List (Armorer)</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
+
+
+Artificer 
+Level Spell
+3rd magic missile, thunder wave 
+5th mirror image, shatter
+9th hypnotic pattern, lightning bolt 
+13th fire shield, greater invisibility 
+17th passwall, wall of force</text><optional>1</optional></feat><feat><name>Arcane Armor (Armorer)</name><text>Your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith’s tools in hand.
+You gain the following benefits while wearing the power armor:
+
+• If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
+• You can use the power armor as a spellcasting focus for your artificer spells.
+• The power armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
+You can don or doff tour armor as an action. 
+
+The armor continues to be power armor until you doff it, you don another suit of armor, or you die.</text><optional>1</optional></feat><feat><name>Armor Model (Armorer)</name><text>You can customize your power armor. When you do so, choose one of the following armor models: guardian or infiltrator. The model you choose gives you special benefits while you wear it.
+Each model includes a special weapon. When you attack with that weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.
+You can change your power armor’s model whenever you finish a short or long rest, provided you have smith’s tools in hand.
+
+Guardian. You design your armor to be in the frontline of conflict. It has the following features:
+
+Thunder Gauntlets. Your armored fists each count as a simple melee weapon, and each deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.
+
+Defensive Field. You gain a bonus action that you can use on each of your turns to gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor.
+
+Infiltrator. You customize your armor for subtle undertakings. It has the following features:
+
+Lightning Launcher. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long
+range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.
+
+Powered Steps. Your walking speed increases by 5 feet.
+
+Dampening steps. You have advantage on stealth checks. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn’t.</text><optional>1</optional></feat></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th, 8th, 1 2th, 16th, and 19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1 . As normal, you can&#39;t increase a n ability score above 20 using this feature.</text></feat></autolevel><autolevel><level>5</level><slots>2,3,2,0,0,0,0,0,0,0,</slots><feat><name>Alchemical Savant (Alchemist)</name><text>At 5th level, you develop masterful command ofmagical chemicals, enhancing the healing and damage you cre­ ate through them. Whenever you cast a spell using your alchemist&#39;s supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelli­ gence modifier (minimum of +1).</text><optional>1</optional></feat><feat><name>Arcane Firearm (Artillerist)</name><text>At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use wood­ carver&#39;s tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+
+You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bo­ nus to one of the spell&#39;s damage rolls equal to the num­ ber rolled.</text><optional>1</optional></feat><feat><name>Extra Attack (Battle Master)</name><text>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.</text><optional>1</optional></feat><feat><name>Extra Attack (Armorer)</name><text>You can attack twice, rather than once, whenever you take the Attack action on your turn.</text><optional>1</optional></feat></autolevel><autolevel><level>6</level><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Tool Expertise</name><text>Starting at 6th level, your proficiency bonus i s doubled for any ability check you make that uses your proficiency with a tool.</text></feat></autolevel><autolevel><level>7</level><slots>2,4,3,0,0,0,0,0,0,0,</slots><feat><name>Flash Of Genius</name><text>Startingat 7th level, you gain the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet ofyou makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You re­ gain all expended uses when you finish a long rest.</text></feat></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>2,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th, 8th, 1 2th, 16th, and 19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1 . As normal, you can&#39;t increase a n ability score above 20 using this feature.</text><optional>1</optional></feat></autolevel><autolevel><level>9</level><slots>2,4,3,2,0,0,0,0,0,0,</slots><feat><name>Restorative Reagents (Alchemist)</name><text>Starting at 9th level, you can incorporate restorative re­ agents into some ofyour works:
+
+Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).
+You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist&#39;s supplies as the spellcasting focus. You can do so a number of times equal to your Intelli­ gence modifier (minimum of once), and you regain all expended uses when you finish a long rest</text><optional>1</optional></feat><feat><name>Explosive Cannon (Artillerist)</name><text>Starting at 9th level, every eldritch cannon you create is more destructive:
+The cannon&#39;s damage rolls all increase by ld8.
+As an action, you can command the cannon to deto­ nate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.</text><optional>1</optional></feat><feat><name>Arcane Jolt (Battle Smith)</name><text>At 9th level, you learn new ways to channel arcane en­ ergy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects: 
+
+• The target takes an extra 2d6 force damage.
+
+•Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.
+
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.</text><optional>1</optional></feat><feat><name>Armor Modifications (Armorer)</name><text>You learn how to use your artificer infusions to specially modify the armor enhanced by your Power Armor feature. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, bracers, and a weapon. Each of those items can bear one of your infusions. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your power armor.</text><optional>1</optional></feat></autolevel><autolevel><level>10</level><slots>3,4,3,2,0,0,0,0,0,0,</slots><feat><name>Magic Item Adept</name><text>When you reach 10th level, you achieve a profound un­ derstanding of how to use and make magic items:
+• You can attune to up to four magic items at once.
+• If you craft a magic item with a rarity of common or
+uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</text></feat></autolevel><autolevel><level>11</level><slots>3,5,3,2,0,0,0,0,0,0,</slots><feat><name>Spell-Storing Item</name><text>At 11th level, you learn how to store a spell i n an object. Whenever you finish a long rest, you can touch one sim­ ple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn&#39;t have it prepared).
+
+While holding the object, a creature can take an action to produce the spell&#39;s effect from it, using your spellcast­ ing ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the ob­ ject until it&#39;s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</text></feat></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>3,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th, 8th, 1 2th, 16th, and 19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1 . As normal, you can&#39;t increase a n ability score above 20 using this feature.</text></feat></autolevel><autolevel><level>13</level><slots>3,4,3,3,1,0,0,0,0,0,</slots></autolevel><autolevel><level>14</level><slots>4,4,3,3,1,0,0,0,0,0,</slots><feat><name>Magic Item Savant</name><text>At 14th level, your skill with magic items deepens more:
+You can attune to up to five magic items at once. You ignore all class, race, spell, and level require­ ments on attuning to or using a magic item.</text></feat></autolevel><autolevel><level>15</level><slots>4,4,3,3,2,0,0,0,0,0,</slots><feat><name>Chemical Mastery (Alchemist)</name><text>By 15th level, you have been exposed to so many chem­ icals that they pose little risk to you, and you can use them to quickly end certain ailments:
+
+• You gain resistance to acid damage and poison dam­ age, and you are immune to the poisoned condition.
+
+You can cast greater restoration and heal without ex­ pending a spell slot, without preparing the spell, and without material components, provided you use al­ chemist&#39;s supplies as the spellcasting focus. Once you cast either spell with this feature, you can&#39;t cast that spell with it again until you finish a long rest.</text><optional>1</optional></feat><feat><name>Fortified Position (Artillerist)</name><text>Starting at 1 5th level, you&#39;re a master at forming well-defended emplacements using Eldritch Cannon:
+
+• You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
+
+• You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the can­ nons are identical to each other or different. You can&#39;t create a third cannon while you have two.</text><optional>1</optional></feat><feat><name>Improved Defender (Battle Smith)</name><text>At 1 5th level, your Arcane jolt and steel defender be­ come more powerful:
+
+• The extra damage and the healing of your Arcane jolt both increase to 4d6.
+
+• Your steel defender gains a +2 bonus to Armor Class. • Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your
+Intelligence modifier.</text><optional>1</optional></feat><feat><name>Perfected Armor (Armorer)</name><text>Your power armor gains additional benefits based on its model, as shown below.
+
+Guardian. Tinkering with your armor&#39;s energy system leads you to discover a powerful pulling force. When a huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to 30 feet towards you, to an unoccupied space, you can make a melee weapon attack against it as part of this reaction. You can use this reaction a number of times equal to your proficiency modifier. You regain all expended uses of it when you finish a long rest.
+
+Infiltrator. Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.</text><optional>1</optional></feat></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,3,2,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th, 8th, 1 2th, 16th, and 19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1 . As normal, you can&#39;t increase a n ability score above 20 using this feature.</text></feat></autolevel><autolevel><level>17</level><slots>4,4,3,3,3,1,0,0,0,0,</slots></autolevel><autolevel><level>18</level><slots>4,4,3,3,3,1,0,0,0,0,</slots><feat><name>Magic Item Master</name><text>Starting at 18th level, you can attune to u p t o six magic items at once.</text></feat></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,3,3,2,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th, 8th, 1 2th, 16th, and 19th level, you can increase one ability score of your choice by 2, or
+you can increase two ability scores of your choice by 1 . As normal, you can&#39;t increase a n ability score above 20 using this feature.</text></feat></autolevel><autolevel><level>20</level><slots>4,4,3,3,3,2,0,0,0,0,</slots><feat><name>Soul Of Artifice</name><text>At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:
+
+You gain a +1 bonus to all saving throws per magic
+item you are currently attuned to.
+
+If you&#39;re reduced to 0 hit points but not killed out­ right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</text></feat></autolevel><spellAbility>3</spellAbility><spell><name>Booming Blade</name><school>5</school><time>1 action</time><range>5 feet</range><v>1</v><m>1</m><materials>a weapon</materials><duration>1 round</duration><text>As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell&#39;s range, otherwise the spell fails. On a hit, the target suffers the attack&#39;s normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves before then, it immediately takes 1d8 thunder damage, and the spell ends.
+	This spell&#39;s damage increases when you reach higher levels.  At 5th level, the melee attack deals an extra 1d8 thunder damage to the target, and the damage the target takes for moving increases to 2d8.  Both damage rolls increase by 1d8 at 11th level and 17th level.
+
+Source: Sword Coast Adventurer&#39;s Guide, p. 142</text><roll>1d8</roll><sclass>Fighter (Eldritch Knight)</sclass><sclass>Rogue (Arcane Trickster)</sclass><sclass>Sorcerer</sclass><sclass>Warlock</sclass><sclass>Wizard</sclass><sclass>Sorcerer (AE)</sclass><sclass>Artificer (E)</sclass></spell><spell><name>Fire Bolt</name><school>5</school><time>1 action</time><range>120 feet</range><v>1</v><s>1</s><duration>Instantaneous</duration><text>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn&#39;t being worn or carried. 
+	This spell&#39;s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+
+Source: Player&#39;s Handbook, p. 242</text><roll>1d10</roll><sclass>Fighter (Eldritch Knight)</sclass><sclass>Rogue (Arcane Trickster)</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass><sclass>Artificer (E)</sclass><sclass>Sorcerer (AE)</sclass></spell><spell><name>Identify</name><school>3</school><ritual>1</ritual><level>1</level><time>1 minute</time><range>Touch</range><v>1</v><s>1</s><m>1</m><materials>a pearl worth at least 100 gp and an owl feather</materials><duration>Instantaneous</duration><text>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. 
+	If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+
+Source: Player&#39;s Handbook, p. 252</text><sclass>Bard</sclass><sclass>Wizard</sclass><sclass>Spellbinder</sclass><sclass>Artificer (E)</sclass></spell></class><container><name>Explorer’s Pack</name><text>Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</text><value>10.0</value><item><name>Backpack</name><value>2.0</value><weight>5.0</weight></item><item><name>Bedroll</name><value>1.0</value><weight>7.0</weight></item><item><name>Mess kit</name><text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</text><value>0.2</value><weight>1.0</weight></item><item><name>Tinderbox</name><text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.</text><value>0.5</value><weight>1.0</weight></item><item><name>Torch</name><text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text><quantity>10</quantity><value>0.01</value><weight>1.0</weight></item><item><name>Rations (1 day)</name><text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text><quantity>10</quantity><value>0.5</value><weight>2.0</weight></item><item><name>Waterskin</name><value>0.2</value><weight>5.0</weight></item><item><name>Hempen rope (50 feet)</name><text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text><value>1.0</value><weight>10.0</weight></item></container>
+<item><name>Scale Mail</name><text>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
+
+Source: Player&#39;s Handbook p. 144</text><type>2</type><slot>5</slot><value>50.0</value><weight>45.0</weight><ac>14</ac><stealth>1</stealth></item><item><name>Dagger</name><text>Proficiency: simple, dagger
+Source: Player&#39;s Handbook p. 149</text><type>5</type><slot>2</slot><quantity>2</quantity><value>2.0</value><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><mod><type>1</type></mod></item><item><name>Gold (gp)</name><type>15</type><quantity>36</quantity><value>1.0</value><weight>0.02</weight></item><slots>2,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>2,2,0,0,0,0,0,0,0,0,</slotsCurrent><money>36.0</money></character>
+</pc>
