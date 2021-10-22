@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5"><character><version>37</version><uid>8827</uid><name>Johnny Bravo Lvl1</name><abilities>15,14,14,9,9,10,</abilities><hpMax>10</hpMax><hpCurrent>10</hpCurrent><unarmed>1</unarmed><race><name>Human Variant</name><age>20</age><height>6ft</height><weight>250</weight><skin>Caucasian</skin><hair>Blond</hair><feat><name>Ability Score Increase</name><text>Two different ability scores of your choice increase by 1.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded><mod><category>1</category><value>1</value></mod><mod><category>1</category><type>1</type><value>1</value></mod></feat><feat><name>Skills</name><text>You gain proficiency in one skill of your choice.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded><proficiency>103</proficiency></feat><feat><name>Feat</name><text>You gain one feat of your choice.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and Elvish . Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+ 
+Source: Player&#39;s Handbook, p. 31</text><expanded>0</expanded></feat><mod><category>1</category><value>1</value></mod><mod><category>1</category><type>1</type><value>1</value></mod><spellAbility>6</spellAbility></race><background><name>Knight</name><align>NG</align><proficiency>105</proficiency><proficiency>113</proficiency><feat><name>Description</name><text>A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on). 
+	As an emblem of chivalry and the ideais of courtly love, you might inelude among your equipment a banner or other token from a noble lord or lady to whom you have given your heart — in a chasle sort of devotion. (This person could be your bond.)</text><expanded>0</expanded></feat><feat><name>Starting Proficiencies</name><text>Your background grants you the following proficiencies.
+ 
+Skills: History, Persuasion
+ 
+Languages: any one of your choice
+ 
+Tools: one type of gaming set</text><expanded>0</expanded></feat><feat><name>Retainer</name><text>You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
+ 
+Source: Player&#39;s Handbook, p. 136</text><expanded>0</expanded></feat><feat><name>Equipment</name><text>A set of fine clothes, a signet ring, a scroll of pedigree, a banner or other token from a noble lord or lady to whom you have given your heart — in a chaste sort of devotion, and a purse containing 25 gp</text><expanded>0</expanded></feat><feat><name>Personality Trait</name><text>I take great pains to always look my best and follow the latest fashions.</text><expanded>0</expanded></feat><feat><name>Ideal</name><text>Choose or randomly determine
+
+ 
+1. Respect: Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good). 
+ 
+2. Responsibility: It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful). 
+ 
+3. Independence: I must prove that I can handle myself without the coddling of my family. (Chaotic). 
+ 
+ 
+5. Family: Blood runs thicker than water. (Any). 
+ 
+6. Noble Obligation: It is my duty to protect and care for the people beneath me. (Good).</text><expanded>0</expanded></feat><feat><name>Bond</name><text>I will face any challenge to win the approval of attractive women</text><expanded>0</expanded></feat><feat><name>Flaw</name><text>
+4. I have an insatiable desire for carnal pleasures. 
+6. By my words and actions, I often bring shame to my family.</text><expanded>0</expanded></feat></background><class><name>Monk</name><hd>2</hd><wealth>5d4</wealth><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><proficiency>0</proficiency><proficiency>1</proficiency><proficiency>100</proficiency><proficiency>103</proficiency><numClassSkills>2</numClassSkills><armor>none</armor><weapons>simple weapons, shortswords</weapons><tools>any one type of artisan&#39;s tools or any one musical instrument of your choice</tools><feat><name>Starting Monk</name><text>As a 1st-level Monk, you begin play with 8+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: none
+• Weapons: simple weapons, shortswords
+• Tools: any one type of artisan&#39;s tools or any one musical instrument of your choice
+• Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) a shortsword or (b) any simple weapon
+• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack
+• 10 darts
+ 
+Alternatively, you may start with 5d4 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 76</text><optional>1</optional><expanded>0</expanded></feat><feat><name>Unarmored Defense</name><text>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+	
+Source: Player&#39;s Handbook, p. 78</text><expanded>0</expanded><special>8</special></feat><feat><name>Martial Arts</name><text>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
+	You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield.
+	 
+• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+	 
+• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level. 
+	 
+• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+	 
+	Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in chapter 5.
+	
+Source: Player&#39;s Handbook, p. 78</text><expanded>0</expanded></feat><autolevel><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Monk</name><text>As a 1st-level Monk, you begin play with 8+your Constitution modifier hit points.
+ 
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+• Armor: none
+• Weapons: simple weapons, shortswords
+• Tools: any one type of artisan&#39;s tools or any one musical instrument of your choice
+• Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+ 
+You begin play with the following equipment, in addition to any equipment provided by your background.
+• (a) a shortsword or (b) any simple weapon
+• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack
+• 10 darts
+ 
+Alternatively, you may start with 5d4 gp and choose your own equipment.
+ 
+Source: Player&#39;s Handbook, p. 76</text><optional>1</optional></feat><feat><name>Multiclass Monk</name><text>To multiclass as a Monk, you must meet the following prerequisites:
+• Dexterity 13 and Wisdom 13
+ 
+You gain the following proficiencies:
+• simple weapons, shortswords
+ 
+Source: Player&#39;s Handbook, p. 163</text><optional>1</optional></feat><feat><name>Unarmored Defense</name><text>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+	
+Source: Player&#39;s Handbook, p. 78</text><special>8</special></feat><feat><name>Martial Arts</name><text>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
+	You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield.
+	 
+• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+	 
+• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level. 
+	 
+• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+	 
+	Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon in chapter 5.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat></autolevel><autolevel><level>2</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Dedicated Weapon: Optional Feature</name><text>You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
+
+The chosen weapon must meet these criteria:
+
+The weapon must be a simple or martial weapon.
+You must be proficient with it.
+It must lack the heavy and special properties.</text><optional>1</optional></feat><feat><name>Ki</name><text>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have a number of Ki points equal to your monk level.
+	You can spend these points to fuel various ki features.
+	You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class. When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+	Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+	Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Flurry of Blows</name><text>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Patient Defense</name><text>You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Step of the Wind</name><text>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Unarmored Movement</name><text>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels — to 15 ft. at 6th level, to 20 ft. at 10th level, to 25 ft. at 14th level, and to 30 ft. at 18th level.
+	At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+	
+Source: Player&#39;s Handbook, p. 78</text><mod><type>13</type><value>10</value></mod></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>2</formula></tracker></autolevel><autolevel><level>3</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ki-Fueled Attack: Optional Attack</name><text>If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</text><optional>1</optional></feat><feat><name>Deflect Missiles</name><text>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+	If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Monastic Tradition</name><text>When you reach 3rd level, you commit yourself to a monastic tradition: the Way of the Open Hand, the Way of Shadow, or the Way of the Four Elements, all detailed at the end of the class description. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Monastic Tradition: Way of Shadow</name><text>Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves’ guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Shadow Arts (Way of Shadow)</name><text>Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. Additionally, you gain the minor illusion cantrip if you don’t already know it.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Cobalt Soul</name><text>Driven by the pursuit of knowledge and their worship of the Knowing Mistress, the monastery of the Cobalt Soul (known as the library of the Cobalt Reserve) stands as one of the most well-respected and most heavily guarded repository of tomes, history, and information across Exandria. Here, young people seeking the clarity of truth and the strength of knowledge pledge to learn the arts of seeking enlightenment by understanding the world around them, and mastering the techniques to defend it. To become a Cobalt Soul is to give one’s self to the quest for unveiling life’s mysteries, bringing light to the secrets of the dark, and guarding the most powerful and dangerous of truths from those who would seek to pervert the sanctity of civilization.
+	The monks of the Cobalt Soul are the embodiment of the phrase “know your enemy”. Through research, they prepare themselves against the ever-coming tides of evil. Through careful training, they have learned to puncture and manipulate the spiritual flow of an opponent’s body. Through understanding the secrets of their foe, they can adapt and surmount them. Then, once the fight is done, they return to record their findings for future generations of monks to study from.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Mystical Erudition (Way of the Cobalt Soul)</name><text>Upon choosing this tradition at 3rd level, you’ve undergone extensive training with the Cobalt Soul, allowing you to mystically recall information on history and lore from the monastery’s collected volumes. Whenever you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion) check, you can spend 1 ki point to gain advantage on the roll.
+	In addition, you learn one language of your choice. You gain additional languages at 11th and 17th level.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Extract Aspects (Way of the Cobalt Soul)</name><text>Beginning at 3rd level when choosing this tradition, when you pummel an opponent and connect with multiple pressure points, you can extract crucial information about your foe. Whenever you hit a single creature with two or more attacks in one round, you can spend 1 ki point to force the target to make a Constitution saving throw. On a failure, you learn one aspect about the creature of your choice: Creature Type, Armor Class, Senses, Highest Saving Throw Modifier, Lowest Saving Throw Modifier, Damage Vulnerabilities, Damage Resistances, Damage Immunities, or Condition Immunities.
+	Upon reaching 6th level, if the target fails their saving throw, you can choose two aspects to learn. This increases to three aspects at 11th level, and four aspects at 17th level.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Drunken Master</name><text>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
+	A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 33</text><optional>1</optional></feat><feat><name>Drunken Technique (Way of the Drunken Master)</name><text>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Bonus Proficiencies (Way of the Drunken Master)</name><text>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don’t already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer’s supplies if you don’t already have it.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Four Elements</name><text>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
+	Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Disciple of the Elements (Way of the Four Elements)</name><text>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.
+	You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the "Elemental Disciplines" section below. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.
+	Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
+	 
+Casting Elemental Spells. Some elemental disciplines allow you to cast spells. See chapter 10 for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don’t need to provide material components for it.
+	Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as burning hands does. The spell’s level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast burning hands, you can spend 3 ki points to cast it as a 2nd-level spell (the discipline’s base cost of 2 ki points plus 1).
+	The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Kensei</name><text>Monks of the Way of Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.
+	A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Path of the Kensei (Way of the Kensei)</name><text>When you choose this tradition at 3rd level, your special martial arts training leads you to master the use of certain weapons. This path also includes instruction on the deft strokes of calligraphy or painting. 
+	You gain the following benefits: 
+	 
+Kensei Weapons: Choose two types of weapons to be your kensei weapons: one melee weapon and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don’t already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition’s features work only with your kensei weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon—either melee or ranged—to be a kensei weapon for you, following the criteria above. 
+	 
+Agile Parry:  If you make an unarmed strike as part of the Attack action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren’t incapacitated. 
+	 
+Kensei Shot: You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra 1d4 damage of the weapon’s type. You retain this benefit until the end of the current turn.
+	 
+Way of the Brush: You gain proficiency with your choice of calligrapher’s supplies or painter’s supplies.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Long Death</name><text>Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><feat><name>Touch of Death (Way of the Long Death)</name><text>Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point).
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Open Hand</name><text>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+	
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><feat><name>Open Hand Technique (Way of the Open Hand)</name><text>Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.
+	 
+• It must succeed on a Dexterity saving throw or be knocked prone.
+	 
+• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+	 
+• It can’t take reactions until the end of your next turn.
+	 
+Prone:
+• A prone creature&#39;s only movement option is to crawl, unless it stands up and thereby ends the condition.
+	
+• The creature has disadvantage on attack rolls.
+	
+• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+	
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Sun Soul</name><text>Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Radiant Sun Bolt (Way of the Sun Soul)</name><text>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.
+	You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels — to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.
+	When you use the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action.
+	When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of Tranquility</name><text>Monks of the Way of Tranquility see violence as a last resort. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts, and can preserve their allies in the face of daunting foes.
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 1</text><optional>1</optional></feat><feat><name>Path of Tranquility (Way of Tranquility)</name><text>When you choose this tradition at 3rd level, you can become an island of calm in even the most chaotic of situations. With this feature, you can cast the sanctuary spell on yourself, no material component required, and it lasts up to 8 hours. Its saving throw DC equals 8 + your proficiency bonus + your Wisdom modifier. A creature that succeeds on the save is immune to this effect for 1 hour. 
+	Once you cast the spell in this way, you can’t do so again for 1 minute.
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 2</text><optional>1</optional></feat><feat><name>Healing Hands (Way of Tranquility)</name><text>Your mystical touch can heal wounds. Starting at 3rd level, you have a pool of magical healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your monk level _ 10. 
+	As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in the pool. 
+	Instead of healing the creature, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Healing Hands, expending hit points separately for each one. 
+	When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature. 
+	This feature has no effect on undead and constructs.
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 2</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way of the Astral Self</name><text>A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.
+
+FORMS OF YOUR ASTRAL SELF
+
+The astral self is a translucent embodiment of the monk’s soul. As a result, an astral self can reflect aspects of a monk’s background, ideals, flaws, and bonds, and an astral self doesn’t necessarily look anything like the monk. For example, the astral self of a lanky human might be reminiscent of a minotaur—the strength of which the monk feels within. Similarly, an orc monk might manifest gossamer arms and a delicate visage, representing the gentle beauty of the orc’s soul. Each astral self is unique, and some of the monks of this monastic tradition are known more for the appearance of their astral self than for their physical appearance.
+
+When choosing this path, consider the quirks that define your monk. Are you obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.</text><optional>1</optional></feat><feat><name>Arms of the Astral Self (Way of the Astral Self)</name><text>Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
+
+For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms’ appearance, and they vanish early if you are incapacitated or die.
+
+While the spectral arms are present, you gain the following benefits:
+
+You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
+
+You can use the spectral arms to make unarmed strikes.
+When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.
+
+The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.</text><optional>1</optional></feat><feat><name>Elemental Attunement: Reborn Four Elements</name><text>Beginning when you choose this path at 3rd level, you 
+gain the ability to manipulate the elements around you. 
+As a bonus action on your turn, you can create one of the 
+following effects:
+
+• You create a harmless sensory effect 
+using the elements around you, such as 
+a puff of air, a shower of sparks, a 
+spray of mist, or a rumbling of stone.
+• You instantaneously light or snuff a 
+candle, torch, or other small fire (such 
+as a campfire).
+• Chill or warm up to one pound of 
+nonliving material for up to one hour.
+• Cause earth, fire, air, or water within a 
+1-foot cube to move and/or shape itself 
+into a crude form you designate for up 
+to one minute.
+
+You can have up to five such effects active at a 
+single time, as long as you maintain your concentration 
+as though you were concentrating on a spell.</text><optional>1</optional></feat><feat><name>Elemental Stance: Reborn Four Elements</name><text>Also at 3rd level, you can use a bonus action to enter an 
+Elemental Stance, choosing one of four elements, synchronizing your ki with one of the four elements. Each Elemental Stance grants you specific benefits, as listed under each element’s Elemental Stance below. Each Elemental Stance lasts until you dismiss it (no action required), until you are incapacitated, or until 
+you switch to a new Elemental Stance as a bonus action 
+on your turn.
+
+You unlock new features of each Elemental Stance 
+when you reach 6th, 11th, and 17th level in this class. As well as a new element at each respective level.</text><optional>1</optional></feat><feat><name>Spellcasting: Reborn Four Elements</name><text>Some features of The Way of the Four Elements Reborn 
+allow you to cast spells. When you cast a spell using a 
+feature from this class, you ignore any material or verbal 
+component requirements for spells, and if a spell from 
+these features has only material or verbal components, 
+you substitute those components for somatic 
+components.
+Wisdom is your spellcasting ability for all spells 
+and abilities granted by this subclass. Your spell save DC 
+equals 8 + your proficiency bonus + your Wisdom 
+modifier, and your spell attack bonus equals your 
+proficiency bonus + your Wisdom modifier.
+The ki point cost for casting spells through this 
+subclass equals 1 + the level of the spell.</text><optional>1</optional></feat><feat><name>Stance Of Earth: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Earth:
+• Earth’s Embrace. You can cast the 
+mold earth cantrip.
+• Rooted Defense. When you move 15 
+feet or less on your turn, your armor 
+class increases by 2. This bonus 
+remains until you move for more than 
+15 feet in one turn.
+• Stone Anchor. While you are standing 
+on nonmagical earth or stone and have 
+moved 15 feet or less on your turn, you
+cannot be forcibly pushed or pulled 
+until the beginning of your next turn.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Carve the Path. You gain a burrowing 
+speed of 20 feet.
+• Stone’s Throw. You can attack by 
+throwing rocks. When you do, you 
+make a ranged weapon attack with a 
+short range of 60 feet and a long range 
+of 90 feet. These rocks are monk 
+weapons for you, and count as magical 
+for the purpose of overcoming 
+resistance and immunity to nonmagical
+damage.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Grasping Tomb. As an action, you 
+spend 3 ki points to choose 1 creature 
+within 60 feet of you. The creature 
+must make a Dexterity saving throw. 
+On a failure, the creature is grappled 
+and restrained, as the earth itself rises 
+to grasp it. A creature that is restrained 
+in this way can use its action to attempt
+to break free of this effect. The DC for 
+breaking free is your ki save DC. 
+Creatures that are more than 10 feet 
+above the ground automatically 
+succeed on the initial saving throw 
+against this ability.
+• Knock, and It Shall Open. You can 
+spend 5 ki points to cast stone shape.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Earth:
+• Sculpter ’s Touch. You can spend 6 ki 
+points to cast transmute rock.
+• Mason’s Hedge. You can spend 6 ki 
+points to cast wall of stone.</text><optional>1</optional></feat><feat><name>Stance Of Fire: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Fire:
+• Fire’s Embrace. You can cast the control 
+flames cantrip.
+• Energy Burn. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be fire. If your unarmed strike 
+extends into your expanded reach, the damage 
+must be fire.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Fire:
+• Scathing Will. You add your Wisdom modifier 
+to all fire damage you deal.
+• Inner Flame. You can cast produce flame, and 
+you can cast it as a bonus action on your turn.
+• Dragon’s Breath. You can spend 2 ki points to 
+cast burning hands.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Fire:
+• Phoenix Screech. You can spend 4 ki points to 
+cast fireball.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Fire:
+• Hedge of Passion. You can spend 5 ki points to 
+cast wall of fire.
+</text><optional>1</optional></feat><feat><name>Stance Of Air: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Air:
+• Air ’s Embrace. You can cast the gust cantrip.
+• Flying Leap. When you make an 
+attack, you can spend 1 ki point to fly 
+up to 15 feet. This movement does not 
+provoke opportunity attacks.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Air:
+• Windy Strike. You can cast the 
+shillelagh cantrip, as the wind itself 
+fuels your strikes.
+• Leaf on the Wind. You do not take 
+damage as a result of falling while you 
+are not incapacitated.
+• Whistling Gale. You can spend 2 ki 
+points to cast gust of wind.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Air:
+• Sentinel’s Breath. You can spend 3 ki 
+points to cast warding wind.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Air:
+• Guide the Four Zephyrs. You can 
+spend 6 ki points to cast control winds.</text><optional>1</optional></feat><feat><name>Stance Of Water: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Water:
+• Water ’s Embrace. You can cast the shape 
+water cantrip.
+• Surge Assault. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be bludgeoning or cold.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• Tendril Form. You can cast the thorn whip
+cantrip, ignoring the material component 
+requirement. It manifests as a tendril of water, 
+instead of a thorny vine. You can cast this 
+cantrip as a bonus action on your turn.
+• Biting Cold. You can cast the primal savagery
+cantrip, as claws of frozen, acrid water form on 
+your fingertips. You can cast this cantrip as a 
+bonus action on your turn.
+• Ebb and Flow. As an action, you can spend 1 ki
+point to choose an area of water within 210 feet 
+of you that is no larger than 30 feet on a side. 
+You can change water to ice in the area, and 
+vice versa. You can reshape ice in the area in 
+any way you wish. You can raise or lower the 
+elevation of water, ice, or steam, and you can 
+cause steam, fog, or mist in the area to appear or
+disperse entirely. You can also dig a trench with 
+the ice or water, but you cannot use the ice or 
+water to cause damage a creature.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• One with the Water. You gain a swimming 
+speed equal to your current speed, and you can 
+breathe underwater.
+• Healing Flow. As an action, you can touch a 
+creature’s flowing life energy and spend a 
+number of ki points up to your monk level, 
+divided by four (rounded down), to augment the 
+creature’s natural recovery. For each ki point 
+you spend, a creature spends one hit die and 
+adds its Constitution modifier and your Wisdom 
+modifier to the amount recovered.
+• Resurgent Ki. You can spend 3 ki points to cast
+lesser restoration.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Water:
+• Liquid Command. You can spend 5 ki points to
+cast control water.
+• Everflowing Globe. You can spend 5 ki points 
+to cast watery sphere.</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way Of Mercy</name><text>Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.
+
+Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies.
+
+The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.</text><optional>1</optional></feat><feat><name>Implements Of Mercy (Way Of Mercy)</name><text>You gain proficiency in the Insight and Medicine skills, and you gain proficiency with the herbalism kit.
+
+You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table: 
+Merciful Mask
+d6	Mask Appearance
+1	Raven
+2	Blank and white
+3	Crying visage
+4	Laughing visage</text><optional>1</optional></feat><feat><name>Hand Of Healing (Way Of Mercy)</name><text>Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.
+
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending a ki point for the healing.</text><optional>1</optional></feat><feat><name>Hand Of Harm (Way Of Mercy)</name><text>You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die + your Wisdom modifier. You can use this feature only once per turn.</text><optional>1</optional></feat><feat><name>Monastic Tradition: Way Of The Ascendant Dragon</name><text>Monks who follow the Way of the Ascendant Dragon revere the power and grandeur of dragons. They alter their own ki to resonate with draconic might, channeling it to augment their prowess in battle, soar through the air, and to bolster their allies.
+As a follower of this Monastic Tradition, you decide how you unlocked the power of dragons through your ki. The Ascendant Dragon Origin table offers some possibilities.
+
+Roll a d6 or choose: 
+
+1. You honed your abilities by observing a dragon and aligning your ki with their world- altering power.
+
+2. A dragon personally took an active role in
+shaping your inner energy.
+
+3. You studied at a monastery that traces its teachings back centuries or more to a single dragon’s instruction.
+
+4. You spent long stretches meditating in the region of influence of an ancient dragon’s lair, absorbing its ambient magic.
+
+5. You found a scroll written in Draconic that contained inspiring new techniques.
+
+6. After a dream that featured a five-handed dragonborn you awoke with altered ki, reflecting the breaths of dragons.</text><optional>1</optional></feat><feat><name>Draconic Disciple (Ascendant Dragon)</name><text>You can channel your draconic ki to imbue your unarmed strikes with the essence of a dragon’s breath and to use your connection with draconic creatures to magnify your presence. You gain the following benefits:
+• When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.
+• If you can’t already, you learn to speak, read, and write Draconic.
+• If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can’t use it again until you finish a long rest.</text><optional>1</optional></feat><feat><name>Breath Of The Dragon (Ascendant Dragon)</name><text>You can channel your ki into destructive waves of energy like the dragons you emulate. When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30- foot line that is 5 feet wide (your choice). Choose a damage type: acid, cold, fire, lightning, or poison. Each creature in the area must make a Dexterity saving throw against your ki save DC, taking damage of the chosen type equal to two rolls of your Martial Arts die on a failure, or half as much damage on a success.
+
+At 11th level, the damage of your breath increases to three rolls of your Martial Arts die.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 1 ki point to use this feature again.</text><optional>1</optional></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>3</formula></tracker></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Quickened Healing: Optional Feature</name><text>As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.</text><optional>1</optional></feat><feat><name>Ability Score Improvement</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><feat><name>Slow Fall</name><text>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>4</formula></tracker></autolevel><autolevel><level>5</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Focused Aim: Optional Feature</name><text>When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.</text><optional>1</optional></feat><feat><name>Extra Attack</name><text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Stunning Strike</name><text>Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+	 
+Stunned:
+• A stunned creature is incapacitated, meaning it can&#39;t take actions or reactions, can&#39;t move, and can speak only falteringly.
+	
+• The creature automatically fails Strength and Dexterity saving throws.
+	
+• Attack rolls against the creature have advantage.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Enhanced Spellcasting: Reborn Four Elements</name><text>Beginning at 5th level in this class, you can spend 
+additional ki points to increase the spellcasting level of 
+your spells that can be upcast. For each additional level 
+you upcast a spell, you must spend 1 additional ki point. 
+The maximum level at which you can cast a spell through
+this class equals your monk level, divided by 3 (rounded 
+down)</text><optional>1</optional></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>5</formula></tracker></autolevel><autolevel><level>6</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ki-Empowered Strikes</name><text>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Shadow Step (Way of Shadow)</name><text>At 6th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Extort Truth (Way of the Cobalt Soul)</name><text>At 6th level, you can hit a series of hidden nerves on a creature with precision, temporarily causing them to be unable to mask their true thoughts and intent. If you manage to hit a single creature with two or more attacks in one round, you can spend 2 ki points to force them to make a Charisma saving throw. You can choose to have these attacks deal no damage. On a failed save, the creature is unable to speak a deliberate lie for 1 minute. You know if they succeeded or failed on their saving throw.
+	An affected creature is aware of the effect and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as the effect lasts.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Mind of Mercury (Way of the Cobalt Soul)</name><text>Starting at 6th level, you’ve honed your awareness and reflexes through mental aptitude and pattern recognition. You can take a number of additional reactions each round equal to your Intelligence modifier (minimum of 1), at the cost of 1 ki point per reaction beyond the first. You can only use one reaction per trigger.
+	In addition, whenever you make an Intelligence (Investigation) check, you can spend 1 ki point to gain advantage on the roll.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Tipsy Sway (Way of the Drunken Master)</name><text>Starting at 6th level, you can move in sudden, swaying ways. You gain the follwoing benefits.
+	 
+Leap to Your Feet: When you’re prone, you can stand up by spending 5 feet of movement, rather than half your speed.
+	 
+Redirect Attack: When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 6th level, you learn an additional elemental discipline of your choice.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>One with the Blade (Way of the Kensei)</name><text>At 6th level, you extend your ki into your kensei weapons, granting you the following benefits. 
+	 
+Magic Kensei Weapons: Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. 
+	 
+Deft Strike: When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Hour of Reaping (Way of the Long Death)</name><text>At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+	 
+Frightened:
+• A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+	
+• The creature can&#39;t willingly move closer to the source of its fear.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 130</text><optional>1</optional></feat><feat><name>Wholeness of Body (Way of the Open Hand)</name><text>At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+	
+Source: Player&#39;s Handbook, p. 79</text><optional>1</optional></feat><feat><name>Searing Arc Strike (Way of the Sun Soul)</name><text>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the burning hands spell as a bonus action.
+	You can spend additional ki points to cast burning hands as a higher level spell. Each additional ki point you spend increases the spell’s level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Emissary of Peace (Way of Tranquility)</name><text>At 6th level, you gain the ability to diffuse violent situations. Whenever you make a Charisma check to calm violent emotions or to counsel peace, you have advantage on the roll. You must make this entreaty in good faith; it doesn’t apply if proficiency in the Deception or Intimidation skill applies to your check. 
+	You also gain proficiency in the Performance or Persuasion skill (choose one).
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 2</text><optional>1</optional></feat><feat><name>Visage of the Astral Self (Way of the Astral Self)</name><text>You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die.
+
+The spectral visage covers your face like a helmet or mask. You determine its appearance.
+
+While the spectral visage is present, you gain the following benefits.
+
+Astral Sight. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+Wisdom of the Spirit. You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.
+
+Word of the Spirit. When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.</text><optional>1</optional></feat><feat><name>Elemental Redirection: Reborn Four Elements</name><text>Beginning at 6th level, you can spend 2 ki points to 
+cast absorb elements.</text><optional>1</optional></feat><feat><name>Stance Of Stone: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Earth:
+• Earth’s Embrace. You can cast the 
+mold earth cantrip.
+• Rooted Defense. When you move 15 
+feet or less on your turn, your armor 
+class increases by 2. This bonus 
+remains until you move for more than 
+15 feet in one turn.
+• Stone Anchor. While you are standing 
+on nonmagical earth or stone and have 
+moved 15 feet or less on your turn, you
+cannot be forcibly pushed or pulled 
+until the beginning of your next turn.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Carve the Path. You gain a burrowing 
+speed of 20 feet.
+• Stone’s Throw. You can attack by 
+throwing rocks. When you do, you 
+make a ranged weapon attack with a 
+short range of 60 feet and a long range 
+of 90 feet. These rocks are monk 
+weapons for you, and count as magical 
+for the purpose of overcoming 
+resistance and immunity to nonmagical
+damage.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Grasping Tomb. As an action, you 
+spend 3 ki points to choose 1 creature 
+within 60 feet of you. The creature 
+must make a Dexterity saving throw. 
+On a failure, the creature is grappled 
+and restrained, as the earth itself rises 
+to grasp it. A creature that is restrained 
+in this way can use its action to attempt
+to break free of this effect. The DC for 
+breaking free is your ki save DC. 
+Creatures that are more than 10 feet 
+above the ground automatically 
+succeed on the initial saving throw 
+against this ability.
+• Knock, and It Shall Open. You can 
+spend 5 ki points to cast stone shape.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Earth:
+• Sculpter ’s Touch. You can spend 6 ki 
+points to cast transmute rock.
+• Mason’s Hedge. You can spend 6 ki 
+points to cast wall of stone.</text><optional>1</optional></feat><feat><name>Stance Of Fire: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Fire:
+• Fire’s Embrace. You can cast the control 
+flames cantrip.
+• Energy Burn. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be fire. If your unarmed strike 
+extends into your expanded reach, the damage 
+must be fire.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Fire:
+• Scathing Will. You add your Wisdom modifier 
+to all fire damage you deal.
+• Inner Flame. You can cast produce flame, and 
+you can cast it as a bonus action on your turn.
+• Dragon’s Breath. You can spend 2 ki points to 
+cast burning hands.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Fire:
+• Phoenix Screech. You can spend 4 ki points to 
+cast fireball.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Fire:
+• Hedge of Passion. You can spend 5 ki points to 
+cast wall of fire.
+</text><optional>1</optional></feat><feat><name>Stance Of Air: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Air:
+• Air ’s Embrace. You can cast the gust cantrip.
+• Flying Leap. When you make an 
+attack, you can spend 1 ki point to fly 
+up to 15 feet. This movement does not 
+provoke opportunity attacks.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Air:
+• Windy Strike. You can cast the 
+shillelagh cantrip, as the wind itself 
+fuels your strikes.
+• Leaf on the Wind. You do not take 
+damage as a result of falling while you 
+are not incapacitated.
+• Whistling Gale. You can spend 2 ki 
+points to cast gust of wind.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Air:
+• Sentinel’s Breath. You can spend 3 ki 
+points to cast warding wind.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Air:
+• Guide the Four Zephyrs. You can 
+spend 6 ki points to cast control winds.</text><optional>1</optional></feat><feat><name>Stance Of Water: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Water:
+• Water ’s Embrace. You can cast the shape 
+water cantrip.
+• Surge Assault. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be bludgeoning or cold.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• Tendril Form. You can cast the thorn whip
+cantrip, ignoring the material component 
+requirement. It manifests as a tendril of water, 
+instead of a thorny vine. You can cast this 
+cantrip as a bonus action on your turn.
+• Biting Cold. You can cast the primal savagery
+cantrip, as claws of frozen, acrid water form on 
+your fingertips. You can cast this cantrip as a 
+bonus action on your turn.
+• Ebb and Flow. As an action, you can spend 1 ki
+point to choose an area of water within 210 feet 
+of you that is no larger than 30 feet on a side. 
+You can change water to ice in the area, and 
+vice versa. You can reshape ice in the area in 
+any way you wish. You can raise or lower the 
+elevation of water, ice, or steam, and you can 
+cause steam, fog, or mist in the area to appear or
+disperse entirely. You can also dig a trench with 
+the ice or water, but you cannot use the ice or 
+water to cause damage a creature.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• One with the Water. You gain a swimming 
+speed equal to your current speed, and you can 
+breathe underwater.
+• Healing Flow. As an action, you can touch a 
+creature’s flowing life energy and spend a 
+number of ki points up to your monk level, 
+divided by four (rounded down), to augment the 
+creature’s natural recovery. For each ki point 
+you spend, a creature spends one hit die and 
+adds its Constitution modifier and your Wisdom 
+modifier to the amount recovered.
+• Resurgent Ki. You can spend 3 ki points to cast
+lesser restoration.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Water:
+• Liquid Command. You can spend 5 ki points to
+cast control water.
+• Everflowing Globe. You can spend 5 ki points 
+to cast watery sphere.</text><optional>1</optional></feat><feat><name>Physicians Touch (Way Of Mercy)</name><text>You can administer even greater cures with a touch, and if you feel it’s necessary, you can use your knowledge to cause harm.
+
+When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned, or stunned.
+
+When you use Hand of Harm on a creature, you can subject that creature to the poisoned condition until the end of your next turn.</text><optional>1</optional></feat><feat><name>Wings Unfurled (Ascendant Dragon)</name><text>When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist, you have a flying speed equal to your walking speed.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 1 additional ki point when you activate Step of the Wind to use this feature again.</text><optional>1</optional></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>6</formula></tracker></autolevel><autolevel><level>7</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Evasion</name><text>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><feat><name>Stillness of Mind</name><text>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>7</formula></tracker></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (2nd)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>8</formula></tracker></autolevel><autolevel><level>9</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>9</formula></tracker></autolevel><autolevel><level>10</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Purity of Body</name><text>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>10</formula></tracker></autolevel><autolevel><level>11</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Cloak of Shadows (Way of Shadow)</name><text>By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.
+	 
+Invisible:
+• An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature&#39;s location can be detected by any noise it makes or any tracks it leaves.
+	
+• Attack rolls against the creature have disadvantage, and the creature&#39;s attack rolls have advantage.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Preternatural Counter (Way of the Cobalt Soul)</name><text>Beginning at 11th level, your quick mind and study of your foe allows you to use their failure to your advantage. If a creature misses you with an attack, you can immediately use your reaction to make a melee attack against that creature.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Drunkard’s Luck (Way of the Drunken Master)</name><text>Starting at 11th level, you always seem to get a lucky bounce at just the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 11th level, you learn an additional elemental discipline of your choice.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Sharpen the Blade (Way of the Kensei)</name><text>At 11th level, you gain the ability to augment your weapons further with your ki. As a bonus action, you can expend up to 3 ki points to grant one kensei weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of ki points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect ona magic weapon that already has a bonus to attack and damage rolls.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Mastery of Death (Way of the Long Death)</name><text>Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131</text><optional>1</optional></feat><feat><name>Tranquility (Way of the Open Hand)</name><text>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Searing Sunburst (Way of the Sun Soul)</name><text>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.
+	Each creature in that 20-foot radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn’t need to make the save if the creature is behind total cover that is opaque.
+	You can increase the sphere’s damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Douse the Flames of War (Way of Tranquility)</name><text>At 11th level, you gain the ability to temporarily extinguish a creature’s violent impulses. As an action, you can touch a creature, and it must make a Wisdom saving throw with a DC equal to 8 + your proficiency bonus + your Wisdom modifier. The target automatically succeeds if it’s missing any of its hit points. If the target fails the save, it can’t attack for 1 minute. During that time, it also can’t cast spells that deal damage or that force someone to make a saving throw. 
+	This effect ends if the target is attacked, takes damage, or is forced to make a saving throw or if the target witnesses any of those things happening to its allies.
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 2</text><optional>1</optional></feat><feat><name>Body Of the Astral Self (Way of the Astral Self)</name><text>When you have both your astral arms and visage summoned, you can cause the body of your astral self to appear (no action required). This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance.
+
+While the spectral body is present, you gain the following benefits.
+
+Deflect Energy. When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier (minimum reduction of 1).
+
+Empowered Arms. Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.</text><optional>1</optional></feat><feat><name>Elemental Mastery: Reborn Four Elements</name><text>Starting at 11th level, you can cast mold earth, 
+control flames, gust, and shape water at-will, even when 
+you are not in the associated Elemental Stance you know, and you 
+can cast any of these cantrips as a bonus action. </text><optional>1</optional></feat><feat><name>Stance Of Stone: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Earth:
+• Earth’s Embrace. You can cast the 
+mold earth cantrip.
+• Rooted Defense. When you move 15 
+feet or less on your turn, your armor 
+class increases by 2. This bonus 
+remains until you move for more than 
+15 feet in one turn.
+• Stone Anchor. While you are standing 
+on nonmagical earth or stone and have 
+moved 15 feet or less on your turn, you
+cannot be forcibly pushed or pulled 
+until the beginning of your next turn.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Carve the Path. You gain a burrowing 
+speed of 20 feet.
+• Stone’s Throw. You can attack by 
+throwing rocks. When you do, you 
+make a ranged weapon attack with a 
+short range of 60 feet and a long range 
+of 90 feet. These rocks are monk 
+weapons for you, and count as magical 
+for the purpose of overcoming 
+resistance and immunity to nonmagical
+damage.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Grasping Tomb. As an action, you 
+spend 3 ki points to choose 1 creature 
+within 60 feet of you. The creature 
+must make a Dexterity saving throw. 
+On a failure, the creature is grappled 
+and restrained, as the earth itself rises 
+to grasp it. A creature that is restrained 
+in this way can use its action to attempt
+to break free of this effect. The DC for 
+breaking free is your ki save DC. 
+Creatures that are more than 10 feet 
+above the ground automatically 
+succeed on the initial saving throw 
+against this ability.
+• Knock, and It Shall Open. You can 
+spend 5 ki points to cast stone shape.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Earth:
+• Sculpter ’s Touch. You can spend 6 ki 
+points to cast transmute rock.
+• Mason’s Hedge. You can spend 6 ki 
+points to cast wall of stone.</text><optional>1</optional></feat><feat><name>Stance Of Fire: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Fire:
+• Fire’s Embrace. You can cast the control 
+flames cantrip.
+• Energy Burn. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be fire. If your unarmed strike 
+extends into your expanded reach, the damage 
+must be fire.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Fire:
+• Scathing Will. You add your Wisdom modifier 
+to all fire damage you deal.
+• Inner Flame. You can cast produce flame, and 
+you can cast it as a bonus action on your turn.
+• Dragon’s Breath. You can spend 2 ki points to 
+cast burning hands.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Fire:
+• Phoenix Screech. You can spend 4 ki points to 
+cast fireball.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Fire:
+• Hedge of Passion. You can spend 5 ki points to 
+cast wall of fire.</text><optional>1</optional></feat><feat><name>Stance Of Air: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Air:
+• Air ’s Embrace. You can cast the gust cantrip.
+• Flying Leap. When you make an 
+attack, you can spend 1 ki point to fly 
+up to 15 feet. This movement does not 
+provoke opportunity attacks.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Air:
+• Windy Strike. You can cast the 
+shillelagh cantrip, as the wind itself 
+fuels your strikes.
+• Leaf on the Wind. You do not take 
+damage as a result of falling while you 
+are not incapacitated.
+• Whistling Gale. You can spend 2 ki 
+points to cast gust of wind.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Air:
+• Sentinel’s Breath. You can spend 3 ki 
+points to cast warding wind.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Air:
+• Guide the Four Zephyrs. You can 
+spend 6 ki points to cast control winds.</text><optional>1</optional></feat><feat><name>Stance Of Water: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Water:
+• Water ’s Embrace. You can cast the shape 
+water cantrip.
+• Surge Assault. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be bludgeoning or cold.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• Tendril Form. You can cast the thorn whip
+cantrip, ignoring the material component 
+requirement. It manifests as a tendril of water, 
+instead of a thorny vine. You can cast this 
+cantrip as a bonus action on your turn.
+• Biting Cold. You can cast the primal savagery
+cantrip, as claws of frozen, acrid water form on 
+your fingertips. You can cast this cantrip as a 
+bonus action on your turn.
+• Ebb and Flow. As an action, you can spend 1 ki
+point to choose an area of water within 210 feet 
+of you that is no larger than 30 feet on a side. 
+You can change water to ice in the area, and 
+vice versa. You can reshape ice in the area in 
+any way you wish. You can raise or lower the 
+elevation of water, ice, or steam, and you can 
+cause steam, fog, or mist in the area to appear or
+disperse entirely. You can also dig a trench with 
+the ice or water, but you cannot use the ice or 
+water to cause damage a creature.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• One with the Water. You gain a swimming 
+speed equal to your current speed, and you can 
+breathe underwater.
+• Healing Flow. As an action, you can touch a 
+creature’s flowing life energy and spend a 
+number of ki points up to your monk level, 
+divided by four (rounded down), to augment the 
+creature’s natural recovery. For each ki point 
+you spend, a creature spends one hit die and 
+adds its Constitution modifier and your Wisdom 
+modifier to the amount recovered.
+• Resurgent Ki. You can spend 3 ki points to cast
+lesser restoration.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Water:
+• Liquid Command. You can spend 5 ki points to
+cast control water.
+• Everflowing Globe. You can spend 5 ki points 
+to cast watery sphere.</text><optional>1</optional></feat><feat><name>Flurry Of Healing And Harm (Way Of Mercy)</name><text>Your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.</text><optional>1</optional></feat><feat><name>Aspect Of The Wyrm (Ascandent Dragon)</name><text>The power of your draconic ki now radiates from you, protecting your allies from harm and punishing any who raise arms against them. As a bonus action, you can create an aura of draconic power that radiates 30 feet from you for 1 minute. Choose acid, cold, fire, lightning, or poison damage, and for the duration, you gain the following effects:
+
+• You and your allies within your aura gain resistance to the chosen damage type.
+
+• Waves of destructive energy flow out from you and your allies when any of you are attacked. When you or one of your allies in the aura is hit by an attack made by another creature within the aura, the target that was hit can use their reaction to deal an amount of damage of the chosen type equal to one roll of your Martial Arts die to the attacker.
+
+Once you use this bonus action, you can’t use it again until you finish a long rest, unless you expend 4 ki points to use it again.</text><optional>1</optional></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>11</formula></tracker></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (3rd)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>12</formula></tracker></autolevel><autolevel><level>13</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Tongue of the Sun and Moon</name><text>Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>13</formula></tracker></autolevel><autolevel><level>14</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Diamond Soul</name><text>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
+	Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+	
+Source: Player&#39;s Handbook, p. 79</text><proficiency>2</proficiency><proficiency>3</proficiency><proficiency>4</proficiency><proficiency>5</proficiency></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>14</formula></tracker></autolevel><autolevel><level>15</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Timeless Body</name><text>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>15</formula></tracker></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (4th)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>16</formula></tracker></autolevel><autolevel><level>17</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Opportunist (Way of Shadow)</name><text>At 17th level, you can exploit a creature’s momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Debilitating Barrage (Way of the Cobalt Soul)</name><text>Upon reaching 17th level, you’ve gained the knowledge to temporarily alter and lower a creature’s fortitude by striking a series of pressure points. Whenever you hit a single creature with three or more attacks in one round, you can spend 3 ki points to give the creature disadvantage to their attack rolls until the end of your next turn, and they must make a Constitution saving throw. On a failure, the creature suffers vulnerability to a damage type of your choice for 1 minute, or until after they take any damage of that type.
+	Creatures with resistance or immunity to the chosen damage type do not suffer this vulnerability, which is revealed after the damage type is chosen. You can select the damage type from the following list: acid, bludgeoning, cold, fire, force, lightning, necrotic, piercing, poison, psychic, radiant, slashing, thunder.
+	
+Source: Tal&#39;Dorei Campaign Guide p. 104</text><optional>1</optional></feat><feat><name>Intoxicated Frenzy (Way of the Drunken Master)</name><text>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 34</text><optional>1</optional></feat><feat><name>Additional Elemental Discipline (Way of the Four Elements)</name><text>At 17th level, you learn an additional elemental discipline of your choice.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Unerring Accuracy (Way of the Kensei)</name><text>At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
+	
+Source: Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Touch of the Long Death (Way of the Long Death)</name><text>Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131</text><optional>1</optional></feat><feat><name>Quivering Palm (Way of the Open Hand)</name><text>At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+	You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
+	
+Source: Player&#39;s Handbook, p. 80</text><optional>1</optional></feat><feat><name>Sun Shield (Way of the Sun Soul)</name><text>At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
+	If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.
+	
+Source: Sword Coast Adventurer&#39;s Guide, p. 131
+		Xanathar&#39;s Guide to Everything, p. 35</text><optional>1</optional></feat><feat><name>Anger of a Gentle Soul (Way of Tranquility)</name><text>At 17th level, you gain the ability to visit vengeance on someone who fells others. If you see a creature reduce another creature to 0 hit points, you can use your reaction to grant yourself a bonus to all damage rolls against the aggressor until the end of your next turn. The bonus equals your monk level. 
+	Once you use this ability, you can’t use it again until you finish a short or long rest.
+	
+Source: Unearthed Arcana: Monk Monastic Traditions, p. 2</text><optional>1</optional></feat><feat><name>Awakened Astral Self (Way of the Astral Self)</name><text>Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.
+
+While your astral self is awakened, you gain the following benefits.
+
+Armor of the Spirit. You gain a +2 bonus to Armor Class.
+
+Astral Barrage. Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.</text><optional>1</optional></feat><feat><name>Elemental Avatar: Reborn Four Elements</name><text>Beginning at 17th level, you can cast each of the 
+following spells once:
+• Stance of Earth: investiture of stone
+• Stance of Fire: investiture of flame
+• Stance of Air: investiture of air
+• Stance of Water: investiture of ice
+Once you cast one of these spells using this ability, 
+you become unable to enter the associated Elemental 
+Stance listed alongside it. You regain the ability to re-
+enter that Elemental Stance after you finish a short or 
+long rest.
+You regain use of all of these spells through this 
+feature after you finish a long rest.</text><optional>1</optional></feat><feat><name>Stance Of Stone: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Earth:
+• Earth’s Embrace. You can cast the 
+mold earth cantrip.
+• Rooted Defense. When you move 15 
+feet or less on your turn, your armor 
+class increases by 2. This bonus 
+remains until you move for more than 
+15 feet in one turn.
+• Stone Anchor. While you are standing 
+on nonmagical earth or stone and have 
+moved 15 feet or less on your turn, you
+cannot be forcibly pushed or pulled 
+until the beginning of your next turn.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Carve the Path. You gain a burrowing 
+speed of 20 feet.
+• Stone’s Throw. You can attack by 
+throwing rocks. When you do, you 
+make a ranged weapon attack with a 
+short range of 60 feet and a long range 
+of 90 feet. These rocks are monk 
+weapons for you, and count as magical 
+for the purpose of overcoming 
+resistance and immunity to nonmagical
+damage.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Earth:
+• Grasping Tomb. As an action, you 
+spend 3 ki points to choose 1 creature 
+within 60 feet of you. The creature 
+must make a Dexterity saving throw. 
+On a failure, the creature is grappled 
+and restrained, as the earth itself rises 
+to grasp it. A creature that is restrained 
+in this way can use its action to attempt
+to break free of this effect. The DC for 
+breaking free is your ki save DC. 
+Creatures that are more than 10 feet 
+above the ground automatically 
+succeed on the initial saving throw 
+against this ability.
+• Knock, and It Shall Open. You can 
+spend 5 ki points to cast stone shape.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Earth:
+• Sculpter ’s Touch. You can spend 6 ki 
+points to cast transmute rock.
+• Mason’s Hedge. You can spend 6 ki 
+points to cast wall of stone.</text><optional>1</optional></feat><feat><name>Stance Of Fire: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Fire:
+• Fire’s Embrace. You can cast the control 
+flames cantrip.
+• Energy Burn. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be fire. If your unarmed strike 
+extends into your expanded reach, the damage 
+must be fire.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Fire:
+• Scathing Will. You add your Wisdom modifier 
+to all fire damage you deal.
+• Inner Flame. You can cast produce flame, and 
+you can cast it as a bonus action on your turn.
+• Dragon’s Breath. You can spend 2 ki points to 
+cast burning hands.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Fire:
+• Phoenix Screech. You can spend 4 ki points to 
+cast fireball.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Fire:
+• Hedge of Passion. You can spend 5 ki points to 
+cast wall of fire.</text><optional>1</optional></feat><feat><name>Stance Of Air: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Air:
+• Air ’s Embrace. You can cast the gust cantrip.
+• Flying Leap. When you make an 
+attack, you can spend 1 ki point to fly 
+up to 15 feet. This movement does not 
+provoke opportunity attacks.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Air:
+• Windy Strike. You can cast the 
+shillelagh cantrip, as the wind itself 
+fuels your strikes.
+• Leaf on the Wind. You do not take 
+damage as a result of falling while you 
+are not incapacitated.
+• Whistling Gale. You can spend 2 ki 
+points to cast gust of wind.
+
+At 11th level, you gain the following additional benefit 
+while you are in Stance of Air:
+• Sentinel’s Breath. You can spend 3 ki 
+points to cast warding wind.
+
+At 17th level, you gain the following benefit while you 
+are in Stance of Air:
+• Guide the Four Zephyrs. You can 
+spend 6 ki points to cast control winds.</text><optional>1</optional></feat><feat><name>Stance Of Water: Reborn Four Elements</name><text>Beginning at 3rd level, you gain the following benefits 
+while you are in Stance of Water:
+• Water ’s Embrace. You can cast the shape 
+water cantrip.
+• Surge Assault. Your unarmed strikes’ reach 
+increases by 15 feet, and you can cause their 
+damage type to be bludgeoning or cold.
+
+At 6th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• Tendril Form. You can cast the thorn whip
+cantrip, ignoring the material component 
+requirement. It manifests as a tendril of water, 
+instead of a thorny vine. You can cast this 
+cantrip as a bonus action on your turn.
+• Biting Cold. You can cast the primal savagery
+cantrip, as claws of frozen, acrid water form on 
+your fingertips. You can cast this cantrip as a 
+bonus action on your turn.
+• Ebb and Flow. As an action, you can spend 1 ki
+point to choose an area of water within 210 feet 
+of you that is no larger than 30 feet on a side. 
+You can change water to ice in the area, and 
+vice versa. You can reshape ice in the area in 
+any way you wish. You can raise or lower the 
+elevation of water, ice, or steam, and you can 
+cause steam, fog, or mist in the area to appear or
+disperse entirely. You can also dig a trench with 
+the ice or water, but you cannot use the ice or 
+water to cause damage a creature.
+
+At 11th level, you gain the following additional benefits 
+while you are in Stance of Water:
+• One with the Water. You gain a swimming 
+speed equal to your current speed, and you can 
+breathe underwater.
+• Healing Flow. As an action, you can touch a 
+creature’s flowing life energy and spend a 
+number of ki points up to your monk level, 
+divided by four (rounded down), to augment the 
+creature’s natural recovery. For each ki point 
+you spend, a creature spends one hit die and 
+adds its Constitution modifier and your Wisdom 
+modifier to the amount recovered.
+• Resurgent Ki. You can spend 3 ki points to cast
+lesser restoration.
+
+At 17th level, you gain the following benefits while you 
+are in Stance of Water:
+• Liquid Command. You can spend 5 ki points to
+cast control water.
+• Everflowing Globe. You can spend 5 ki points 
+to cast watery sphere.</text><optional>1</optional></feat><feat><name>Hand Of Ultimate Mercy (Way Of Mercy)</name><text>Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned.
+
+Once you use this feature, you can’t use it again until you finish a long rest.</text><optional>1</optional></feat><feat><name>Ascendant Aspect (Ascendant Dragon)</name><text>Your draconic ki reaches its peak. You gain the following benefits:
+
+• You gain blindsight out to 30 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+
+• When you damage a creature with your Breath of the Dragon, the energy clings to the target. At the start of each of the creature’s turns, it takes damage of the type your breath dealt equal to one roll of your Martial Arts die. At the end of its turn, the creature can repeat the save, ending the effect on itself on a success.
+
+• When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see within your aura. Those creatures each take 4d10 acid, cold, fire, lightning, or poison damage (your choice).</text><optional>1</optional></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>17</formula></tracker></autolevel><autolevel><level>18</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Empty Body</name><text>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
+	Additionally, you can spend 8 ki points to cast the astral projection spell, without needing material components. When you do so, you can’t take any other creatures with you.
+	 
+Invisible:
+• An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature&#39;s location can be detected by any noise it makes or any tracks it leaves.
+	
+• Attack rolls against the creature have disadvantage, and the creature&#39;s attack rolls have advantage.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>18</formula></tracker></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement (5th)</name><text>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+	If your DM uses the optional Feats, you can instead take a feat.
+	
+Source: Player&#39;s Handbook, p. 78</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>19</formula></tracker></autolevel><autolevel><level>20</level><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Perfect Self</name><text>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+	
+Source: Player&#39;s Handbook, p. 79</text></feat><tracker><label>Ki Points</label><type>1</type><resetType>1</resetType><formula>20</formula></tracker></autolevel><spellAbility>6</spellAbility></class><container><name>Backpack</name><value>2.0</value><weight>5.0</weight></container>
+<container><name>Pouch</name><text>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).</text><value>0.5</value><weight>1.0</weight></container>
+<container><name>Sack</name><value>0.01</value><weight>0.5</weight></container>
+<item><name>Common clothes</name></item><item><name>Gold (gp)</name><type>15</type><quantity>7</quantity><value>1.0</value><weight>0.02</weight></item><item><name>Silver (sp)</name><type>15</type><quantity>4</quantity><value>0.1</value><weight>0.02</weight></item><item><name>Copper (cp)</name><type>15</type><quantity>9</quantity><value>0.01</value><weight>0.02</weight></item><slots>0,0,0,0,0,0,0,0,0,0,</slots><slotsCurrent>0,0,0,0,0,0,0,0,0,0,</slotsCurrent><money>7.49</money></character>
+</pc>
